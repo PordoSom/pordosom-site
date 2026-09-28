@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/4g62yZkeAQCV2f4d36nudA?si=ARY6J
 youtube: "https://www.youtube.com/watch?v=EFnyJReRcqk"
 apple: ""
 deezer: ""
-texto_en: "\\\"Founded in São Paulo in 2000 by Paquera, Chapinha, Magnu Sousá and Maurílio de Oliveira, Comunidade Samba da Vela has become one of Brazil’s most important samba circles and movements dedicated to Brazilian samba and original samba music."
+texto_en: "\\\\"Founded in São Paulo in 2000 by Paquera, Chapinha, Magnu Sousá and Maurílio de Oliveira, Comunidade Samba da Vela has become one of Brazil’s most important samba circles and movements dedicated to Brazilian samba and original samba music."
 produtor: ""
 engenheiro: ""
 estudio: ""
