@@ -4,11 +4,19 @@ status: "realizado"
 badge: "Festival Cultural"
 ano: 2018
 imagem: "/img/project-mestres.jpg"
-link: "https://www.youtube.com/playlist?list=PLFwSUQfrxbVQFSZ6UnrFhRwZ0YBkoajMD"
+link: ""
 relatorio: ""
 tags:
   - Tradição
   - Mestres
+  - Mestres da Cultura Popular
+  - Tião Carvalho
+  - Mestre Kenura
+  - Mestre Lumumba
+  - Jongo
+  - Bumba meu Boi
+  - Capoeira
+  - Samba de Roda
 ---
 
 O Festival “Mestre dos Saberes”, presta uma homenagem aos nossos Mestres e Mestras, com a realização de shows em vídeo, de 05 Mestres da Cultura Popular Brasileira. 
