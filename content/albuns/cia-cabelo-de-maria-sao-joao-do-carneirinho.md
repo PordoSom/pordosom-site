@@ -17,9 +17,8 @@ engenheiro: ""
 estudio: "Estudio 185"
 ano_gravacao: ""
 musicos:
-  - Renata Mattar
+  - Reanata Mattar
   - Sanfona
-  - Gustavo Finkler
   - violão
 isrc: ""
 gravadora: ""
