@@ -8,4 +8,7 @@ ordem: "2"
 destaque: true
 ---
 
-Texto de apresentação desta playlist. Edite aqui para contar a história da seleção, os artistas convidados, o fio condutor das faixas — o que fizer sentido.
+Uma seleção essencial de música afro-brasileira raiz. Ouça cantos de Xangô, afoxé, samba de roda e canções de resistência que celebram a herança e a cultura negra no Brasil.
+
+Afro-Brazilian Roots Music: Ancestrality & Samba
+An essential selection of authentic Afro-Brazilian roots music. Listen to cantos de Xangô, afoxé, samba de roda, and resistance songs celebrating Black culture and African heritage in Brazil.
