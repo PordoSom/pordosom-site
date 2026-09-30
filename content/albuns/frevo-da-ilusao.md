@@ -17,9 +17,10 @@ engenheiro: ""
 estudio: ""
 ano_gravacao: ""
 musicos:
-  - Tião Carvalho - Voz
-  - Produção executiva sergio
-  - marketinh zé
+  - Tião Carvalho
+  - Voz e Percussão
+  - Zeca Baleiro
+  - Voz
 isrc: ""
 gravadora: ""
 distribuidora: ""
