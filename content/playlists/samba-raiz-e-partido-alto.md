@@ -2,10 +2,10 @@
 titulo: "Samba Raiz e Partido Alto"
 plataforma: "spotify"
 embed_id: "https://open.spotify.com/playlist/2lgoPMSE9e7lxEumGbBaGn?si=fa7e776a47954830"
-capa: ""
+capa: "/images/uploads/playlist-samba-raiz-e-partido-alto.jpg"
 descricao_curta: "Playlist do selo Por do Som."
-ordem: 1
+ordem: "1"
 destaque: true
 ---
 
-Texto de apresentação desta playlist. Edite aqui para contar a história da seleção, os artistas convidados, o fio condutor das faixas — o que fizer sentido.
+O Melhor do Samba Raiz e Partido Alto, com Cartola, Nelson Cavaquinho, Candeia, Paulinho da Viola, Clara Nunes, Clementina de Jesus, João Nogueira e muito mais.
