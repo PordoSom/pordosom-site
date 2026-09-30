@@ -4,7 +4,6 @@ artista: "Cia Cabelo de Maria"
 ano: 2009
 capa: "/images/uploads/cia-cabelo-de-maria-sao-joao-do-carneirinho.jpg"
  generos:
-  - infantil
 destaque: true
 faixas: 14
 ordem: ""
@@ -18,7 +17,9 @@ engenheiro: ""
 estudio: "Estudio 185"
 ano_gravacao: ""
 musicos:
+  - renata
   - Sanfona
+  - gustavo
   - violão
 isrc: ""
 gravadora: ""
