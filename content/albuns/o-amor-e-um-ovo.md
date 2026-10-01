@@ -26,5 +26,4 @@ gravadora: "teste"
 distribuidora: "teste"
 ---
 
- [TEXTO A REDIGIR — gerado em lote]
-<!-- OBS DA PESQUISA: single -->
+ teste teste teste
