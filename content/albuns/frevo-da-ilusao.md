@@ -3,7 +3,8 @@ titulo: "Tião Carvalho Canta João do Vale"
 artista: "Tião Carvalho"
 ano: 2006
 capa: "/images/uploads/frevo-da-ilusao.jpg"
- generos:
+generos:
+  - cultura-popular
 destaque: true
 faixas: 14
 ordem: "1"
