@@ -4,7 +4,7 @@ plataforma: "spotify"
 embed_id: "https://open.spotify.com/playlist/3feUv8Mh7zQgONtSqFwrXy?si=79df98114c1c4c8e"
 capa: "/images/uploads/playlist-sotaques-do-brasil.jpg"
 descricao_curta: "A Diversidade da Música Popular Brasileira."
-ordem: ""
+ordem: "3"
 destaque: false
 ---
 
