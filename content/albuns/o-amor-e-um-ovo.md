@@ -5,7 +5,6 @@ ano: 2025
 capa: "/images/uploads/o-amor-e-um-ovo.jpg"
 generos:
   - brasilidades
-  - infantil
 destaque: false
 faixas: 1
 ordem: ""
@@ -17,11 +16,14 @@ texto_en: ""
 produtor: "teste"
 engenheiro: "teste"
 estudio: "teste"
-ano_gravacao: ""
+ano_gravacao: "2018"
 musicos:
-isrc: ""
-gravadora: ""
-distribuidora: ""
+  - teste (violão
+  - teste (contrabaixo)
+  - teste (voz)
+isrc: "teste"
+gravadora: "teste"
+distribuidora: "teste"
 ---
 
  [TEXTO A REDIGIR — gerado em lote]
