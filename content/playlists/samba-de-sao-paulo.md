@@ -2,7 +2,7 @@
 titulo: "Samba de São Paulo"
 plataforma: "spotify"
 embed_id: "https://open.spotify.com/playlist/5NnEd3AbyqLcNosVXqu0Ms?si=1ed05fc4c41e4b9c"
-capa: ""
+capa: "/images/uploads/playlist-samba-de-sao-paulo.jpg"
 descricao_curta: "São Paulo Tem Samba!"
 ordem: ""
 destaque: false
