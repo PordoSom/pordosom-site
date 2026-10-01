@@ -3,7 +3,7 @@ titulo: "Canção de Enxugar os Olhos"
 artista: "Marco Vilane"
 ano: 2023
 capa: "/images/uploads/cancao-de-enxugar-os-olhos.jpg"
- generos:
+generos:
   - mpb
 destaque: false
 faixas: 1
@@ -13,6 +13,14 @@ youtube: ""
 apple: ""
 deezer: ""
 texto_en: ""
+produtor: ""
+engenheiro: ""
+estudio: ""
+ano_gravacao: ""
+musicos:
+isrc: ""
+gravadora: ""
+distribuidora: ""
 ---
 
  [TEXTO A REDIGIR — gerado em lote]
