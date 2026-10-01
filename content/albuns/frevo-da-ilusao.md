@@ -15,7 +15,7 @@ deezer: ""
 texto_en: "Celebrating the legacy of the legendary João do Vale, Maranhão-born artist Tião Carvalho delivers a vibrant album that bridges roots folklore with timeless MPB (Musica Popular Brasileira). The record beautifully balances hidden gems like Baião de Viola, Os Óio de Anabela, and Todos Cantam sua Terra with explosive, household classics like Matuto Transviado (Coronel Antonio Bento), A Voz do Povo, Peba na Pimenta, and a powerful rendition of Carcará reimagined in the traditional Bumba meu Boi rhythm. Featuring stellar guest appearances by Zeca Baleiro, Trio Virgulino, and Divina Batucada, this album is a rich tapestry of Afro-Brazilian and Northeastern rhythms—weaving together xotes, baiões, sambas, bumba-meu-boi, and the deep, hypnotic groove of tambor de crioula. It is an essential listen for anyone looking to reconnect with the authentic, soulful heartbeat of Brazil."
 produtor: ""
 engenheiro: ""
-estudio: ""
+estudio: "Estudio 185 Apodi"
 ano_gravacao: ""
 musicos:
   - Tião Carvalho
@@ -23,7 +23,7 @@ musicos:
   - Zeca Baleiro
   - Voz
 isrc: ""
-gravadora: ""
+gravadora: "Por do Som"
 distribuidora: ""
 ---
 
