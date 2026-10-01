@@ -3,8 +3,7 @@ titulo: "Tambú"
 artista: "Luana Bayô"
 ano: 2022
 capa: "/images/uploads/tambu.jpg"
- generos:
-  - samba-de-raiz
+generos:
   - cultura-popular
   - afro-brasileira
 destaque: false
