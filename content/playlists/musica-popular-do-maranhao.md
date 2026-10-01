@@ -2,7 +2,7 @@
 titulo: "Música popular do Maranhão"
 plataforma: "spotify"
 embed_id: "https://open.spotify.com/playlist/3uZoUr92nU8cvqDwisbDbq?si=d82b6f6e71454ffe"
-capa: ""
+capa: "/images/uploads/playlist-musica-popular-do-maranhao.jpg"
 descricao_curta: "O Melhor da Música Popular do Maranhão"
 ordem: ""
 destaque: false
