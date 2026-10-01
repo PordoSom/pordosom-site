@@ -13,9 +13,8 @@ spotify: "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \"Tambú,\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments.
-Her sound is shaped by a rich musicality connecting Congo-Angola traditions, Mandinka rhythms, and Afro-Brazilian Caboclo roots. Through vissungos (traditional Afro-Brazilian chants), sambas, jongos, and other ancestral genres that define her career, she presents traditional sounds with a contemporary, modern arrangement.
-With musical direction by Giovanni Diganzá and artistic direction by Martinha Soares, \"Tambú\" features Xeina Barros and Cauê Silva on percussion, Thayná Oliveira on cello, and Mayara Almeida on saxophone and flute.
+texto_en: "\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\"Tambú,\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments.
+
 
 Luana Bayô es una cantante, compositora y educadora de São Paulo. Su obra está profundamente marcada por la fuerza de la música de la diáspora africana. En su proyecto \"Tambú\", nos invita a conectar con canciones de su autoría y reinterpretaciones que abordan la espiritualidad, la magia, los hechizos y los encantamientos.
 Su propuesta sonora está atravesada por una rica musicalidad que conecta las tradiciones Congo-Angola, los ritmos Mandinga y las raíces afrobrasileñas del Caboclo. A través de vissungos (cantos afrobrasileños ancestrales), sambas, jongos y otros géneros tradicionales que definen su trayectoria, la artista renueva estos sonidos ancestrales con arreglos contemporáneos.
