@@ -13,7 +13,7 @@ spotify: "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\"Tambú,\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments.
+texto_en: "\"\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\"Tambú,\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments.
 
 
 Luana Bayô es una cantante, compositora y educadora de São Paulo. Su obra está profundamente marcada por la fuerza de la música de la diáspora africana. En su proyecto \"Tambú\", nos invita a conectar con canciones de su autoría y reinterpretaciones que abordan la espiritualidad, la magia, los hechizos y los encantamientos.
