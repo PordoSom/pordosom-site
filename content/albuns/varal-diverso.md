@@ -3,7 +3,7 @@ titulo: "Varal Diverso"
 artista: "Marco Vilane"
 ano: 2012
 capa: "/images/uploads/varal-diverso.jpg"
- generos:
+generos:
   - mpb
 destaque: true
 faixas: 1
