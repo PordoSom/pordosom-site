@@ -162,18 +162,6 @@
       "youtube": "https://www.youtube.com/watch?v=ROw_9h76OS4"
     },
     {
-      "slug": "pelo-caminho-que-eu-trilho",
-      "titulo": "Pelo Caminho Que Eu Trilho",
-      "artista": "Marco Vilane e Zeca Baleiro",
-      "ano": "2023",
-      "capa": "/images/uploads/pelo-caminho-que-eu-trilho.jpg",
-      "generos": [],
-      "destaque": true,
-      "ordem": "",
-      "spotify": "",
-      "youtube": "https://www.youtube.com/results?search_query=Marco+Vilane+Zeca+Baleiro+Pelo+Caminho"
-    },
-    {
       "slug": "depois",
       "titulo": "Depois",
       "artista": "Aloysio Letra",
@@ -205,9 +193,7 @@
       "artista": "Luana Bayô",
       "ano": "2022",
       "capa": "/images/uploads/tambu.jpg",
-      "generos": [
-        "afro-brasileira"
-      ],
+      "generos": [],
       "destaque": false,
       "ordem": "",
       "spotify": "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm",
@@ -274,6 +260,7 @@
       "ano": "2020",
       "capa": "/images/uploads/o-urubu-esta-com-raiva-do-boi.jpg",
       "generos": [
+        "- brasilidades",
         "cultura-popular"
       ],
       "destaque": false,
@@ -282,43 +269,13 @@
       "youtube": "https://www.youtube.com/results?search_query=Marco+Vilane+Danilo+Moraes+Urubu+Raiva+Boi"
     },
     {
-      "slug": "o-que-nao-vai-faltar-e-abraco",
-      "titulo": "O Que Não Vai Faltar É Abraço",
-      "artista": "Marco Vilane e Alex Santanna",
-      "ano": "2020",
-      "capa": "",
-      "generos": [
-        "mpb"
-      ],
-      "destaque": false,
-      "ordem": "",
-      "spotify": "",
-      "youtube": ""
-    },
-    {
-      "slug": "samba-da-utopia",
-      "titulo": "Samba da Utopia",
-      "artista": "Jonathan Silva",
-      "ano": "2018",
-      "capa": "/images/uploads/samba-da-utopia.jpg",
-      "generos": [
-        "samba-de-raiz"
-      ],
-      "destaque": false,
-      "ordem": "",
-      "spotify": "https://open.spotify.com/artist/0wTtDVcd69RifkABuA9OBb",
-      "youtube": ""
-    },
-    {
       "slug": "varal-diverso",
       "titulo": "Varal Diverso",
       "artista": "Marco Vilane",
       "ano": "2012",
       "capa": "/images/uploads/varal-diverso.jpg",
-      "generos": [
-        "mpb"
-      ],
-      "destaque": false,
+      "generos": [],
+      "destaque": true,
       "ordem": "",
       "spotify": "https://open.spotify.com/album/5yvf8v1iU8JOndEgX4aIt1",
       "youtube": ""
@@ -362,32 +319,6 @@
       "youtube": "https://www.youtube.com/watch?v=Vz4Ybjljhho&list=PLMA1ZpAyWiy5oEm9fNI9RiK0VK6vvYmIQ&index=2"
     },
     {
-      "slug": "tiao-carvalho-canta-joao-do-vale",
-      "titulo": "Tião Carvalho Canta João do Vale",
-      "artista": "Tião Carvalho",
-      "ano": "2006",
-      "capa": "/images/uploads/tiao-carvalho-canta-joao-do-vale.jpg",
-      "generos": [
-        "cultura-popular"
-      ],
-      "destaque": false,
-      "ordem": "",
-      "spotify": "",
-      "youtube": ""
-    },
-    {
-      "slug": "coisa-alguma",
-      "titulo": "Coisa Alguma",
-      "artista": "Marco Vilane",
-      "ano": "2005",
-      "capa": "/images/uploads/coisa-alguma.jpg",
-      "generos": [],
-      "destaque": false,
-      "ordem": "",
-      "spotify": "https://open.spotify.com/artist/2GtaJVqceVA6xEcFcUQAMD",
-      "youtube": ""
-    },
-    {
       "slug": "quando-dorme-alcantara",
       "titulo": "Quando Dorme Alcântara",
       "artista": "Tião Carvalho",
@@ -420,6 +351,13 @@
   ],
   "projetos": [
     {
+      "slug": "festival-arte-educar",
+      "titulo": "Festival Arte Educar",
+      "status": "realizado",
+      "ano": "2022",
+      "badge": ""
+    },
+    {
       "slug": "festival-malungo",
       "titulo": "Festival Malungo destaca raízes africanas da música popular brasileira",
       "status": "realizado",
@@ -447,7 +385,7 @@
       "titulo": "Samba Raiz e Partido Alto",
       "plataforma": "spotify",
       "embed_id": "https://open.spotify.com/playlist/2lgoPMSE9e7lxEumGbBaGn?si=fa7e776a47954830",
-      "capa": "",
+      "capa": "/images/uploads/playlist-samba-raiz-e-partido-alto.jpg",
       "descricao_curta": "Playlist do selo Por do Som.",
       "destaque": true
     },
@@ -456,17 +394,35 @@
       "titulo": "Música Afro Brasileira",
       "plataforma": "spotify",
       "embed_id": "https://open.spotify.com/playlist/3IeOpRI0JqG5tYkzaVazZu?si=ea8084ecf8484607",
-      "capa": "",
+      "capa": "/images/uploads/playlist-musica-afro-brasileira.jpg",
       "descricao_curta": "Playlist do selo Por do Som.",
       "destaque": true
+    },
+    {
+      "slug": "mulheres-do-samba",
+      "titulo": "Mulheres do Samba",
+      "plataforma": "spotify",
+      "embed_id": "https://open.spotify.com/playlist/38jisGLhJKAz4UljmujJBD?si=53c4849d91f74a34",
+      "capa": "/images/uploads/playlist-mulheres-do-samba.jpg",
+      "descricao_curta": "",
+      "destaque": false
     },
     {
       "slug": "musica-para-criancas",
       "titulo": "Música para Crianças",
       "plataforma": "spotify",
       "embed_id": "https://open.spotify.com/playlist/37tPgIVIw9dQm0zNz3ooGa?si=4a0c4cfbeaff41b0",
-      "capa": "",
+      "capa": "/images/uploads/playlist-musica-para-criancas.jpg",
       "descricao_curta": "Cantigas de Roda, Roda de Histósias, Trava Línguas e muito mais",
+      "destaque": true
+    },
+    {
+      "slug": "tambores-do-brasil",
+      "titulo": "Tambores do Brasil",
+      "plataforma": "spotify",
+      "embed_id": "https://open.spotify.com/playlist/2cyXUj8Qhe3nZ0rbng87nR?si=b421ca5b145f409c",
+      "capa": "/images/uploads/playlist-tambores-do-brasil.jpg",
+      "descricao_curta": "Bumba meu Boi, Maracatu, Jongo, Coco, Sambas de Roda...",
       "destaque": true
     }
   ],
