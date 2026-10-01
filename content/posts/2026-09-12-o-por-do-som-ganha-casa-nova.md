@@ -1,5 +1,5 @@
 ---
-title: "O Pôr do Som ganha casa nova"
+title: "Novo Site da Por do Som no ar"
 date: 2026-09-12
 resumo: "O novo site do selo reúne o catálogo completo, os festivais e toda a produção audiovisual em um só lugar."
 rascunho: false
