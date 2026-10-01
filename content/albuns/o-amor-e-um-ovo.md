@@ -4,7 +4,8 @@ artista: "Marco Vilane"
 ano: 2025
 capa: "/images/uploads/o-amor-e-um-ovo.jpg"
 generos:
-  - instrumental
+  - brasilidades
+  - infantil
 destaque: false
 faixas: 1
 ordem: ""
