@@ -925,7 +925,7 @@ function parseMd(texto) {
   if (!m) return { meta: {}, corpo: texto };
   const meta = {}; let lista = null;
   for (const linha of m[1].split('\n')) {
-    const mi = linha.match(/^\s+-\s+(\S+)\s*$/);
+    const mi = linha.match(/^\s+-\s+(.+?)\s*$/);
     if (mi && lista) {
       if (!Array.isArray(meta[lista])) {
         // blindagem: item orfao nao quebra o painel
@@ -1158,7 +1158,7 @@ titulo: ${q(val('f-titulo'))}
 artista: ${q(val('f-artista'))}
 ano: ${val('f-ano') || '""'}
 capa: ${q(albumAtual.capa || '')}
- ${gLinhas}
+${gLinhas}
 destaque: ${document.getElementById('f-destaque').checked}
 faixas: ${val('f-faixas') || '1'}\nordem: ${q(val('f-ordem'))}
 spotify: ${q(val('f-spotify'))}

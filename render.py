@@ -50,7 +50,7 @@ def parse_md(caminho):
         bloco, corpo = m.group(1), m.group(2)
         lista = None
         for linha in bloco.split('\n'):
-            mi = re.match(r'^\s+-\s+(\S+)\s*$', linha)
+            mi = re.match(r'^\s+-\s+(.+?)\s*$', linha)
             if mi and lista:
                 if not isinstance(meta.get(lista), list):
                     meta[lista] = [meta[lista]] if lista in meta else []
@@ -577,7 +577,7 @@ def gera_site():
     hi = str(SITE_CFG.get('hero_imagem', '') or '').strip()
     hero = ('<section class="hero" style="' + ('background-image: url(' + hi + '); background-size: cover; background-position: center;' if hi else '') + '">\n<div class="hero-bg"></div>\n<div class="hero-bg-overlay"></div>\n'
             '    <div class="hero-noise"></div>\n<div class="hero-content">\n'
-            '        <p class="hero-subtitle">Selo Pôr do Som</p>\n'
+            '\n'
             '        <h1 class="hero-title">' + slog_html + '</h1>\n'
             '        <p class="hero-description">' + esc(cfg_str('hero_texto')) + '</p>\n'
             '    </div>\n<div class="hero-scroll">\n        <span>' + esc(cfg_str('hero_scroll_texto', '')) + '</span>\n'
@@ -593,7 +593,6 @@ def gera_site():
     sec_noticias = ('<section class="teaser" id="noticias">\n<div class="container">\n'
                     '        <div class="teaser-head">\n'
                     '            <span class="section-subtitle">Notícias</span>\n'
-                    '            <h2 class="section-title">Do <span class="gradient">selo</span></h2>\n'
                     '        </div>\n'
                     '        <div class="grade-noticias">' + cards_noticias + '</div>\n'
                     '        <div style="text-align:center;margin-top:2.5rem">\n'
@@ -608,12 +607,12 @@ def gera_site():
                 '            <p class="section-description">' + esc(cfg_str('grav_descricao')) + '</p>\n'
                 '        </div>\n' + vitrine_js + '\n</div>\n</section>\n')
     # --- PROJETOS (grade com todos) ---
-    cards_p = [_card_projeto(p) for p in projetos]
+    cards_p = [_card_projeto(p) for p in projetos[:3]]
     conteudo_proj = '<div class="grade-projetos">' + ''.join(cards_p) + '</div>'
-    if len(projetos) > 6:
+    if len(projetos) > 3:
         conteudo_proj += ('<div style="text-align:center;margin-top:2.5rem">'
                           '<a href="' + BASE + '/projetos.html" class="btn btn-outline" style="text-decoration:none">'
-                          'Ver todos os projetos →</a></div>')
+                          'Mais projetos →</a></div>')
     sec_proj = _sec('projetos', 'Projetos & Festivais', 'projetos_titulo', 'projetos_descricao',
                     conteudo_proj, alt=True)
     # --- AUDIOVISUAL (clips por grupo) ---
@@ -804,11 +803,11 @@ def gera_noticias():
                 itens.append('<span class="pag-link pag-disabled">Próxima →</span>')
             nav_pag = '<nav class="paginacao">' + ''.join(itens) + '</nav>'
         if pagina == 1:
-            sub = 'Notícias do selo'
+            sub = 'Notícias'
             titulo_pag = 'Notícias — Por do Som'
             url_pag = DOMINIO + BASE + '/noticias.html'
         else:
-            sub = 'Notícias do selo · Página ' + str(pagina) + ' de ' + str(total_pag)
+            sub = 'Notícias · Página ' + str(pagina) + ' de ' + str(total_pag)
             titulo_pag = 'Notícias — Página ' + str(pagina) + ' — Por do Som'
             url_pag = DOMINIO + BASE + '/noticias-' + str(pagina) + '.html'
         body = ('<header class="header" id="header">\n<a href="' + BASE + '/index.html" class="logo">\n'
