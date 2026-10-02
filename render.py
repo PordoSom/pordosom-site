@@ -23,7 +23,7 @@ PASTA = {
     'config': os.path.join(BASE_DIR, 'content', 'config'),
     'playlists': os.path.join(BASE_DIR, 'content', 'playlists'),
 }
-BASE = '/pordosom-site'
+BASE = ''
 DOMINIO = 'https://kleber-albuquerque.github.io' + BASE
 
 GENEROS = {
