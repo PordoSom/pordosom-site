@@ -18,14 +18,14 @@ Uma mostra de música inédita reunindo atrações musicais de nichos e estilos 
 Malungo – Amigo, Companheiro, camarada. 
 Aquele que não deixa o companheiro no meio do caminho.
 
-**Adriana Moreira – Santa Segunda - Samba raiz 
-Henrique Araújo – Choro Negro - Choro 
-A Quatro Vozes – Brasilidades – Música popular 
-Zé Eduardo – Fechado pra Balanço – Soul e Mpb  
-Grupo Paranapanema – Segura nessa pisada – Samba raiz, Jongos e Batuques 
-Mestre Plinio e Angoleiro Sim Sinhô – Capoeira 
-Fanta Konatê e Djembedon – Música Africana  
-Luana Bayô – Tambú – Vissungos, Jongos e Samba raiz**
+**Adriana Moreira – Santa Segunda - Samba raiz** 
+**Henrique Araújo – Choro Negro - Choro** 
+**A Quatro Vozes – Brasilidades – Música popular** 
+**Zé Eduardo – Fechado pra Balanço – Soul e Mpb**  
+**Grupo Paranapanema – Samba raiz, Jongos e Batuques** 
+**Mestre Plinio e Angoleiro Sim Sinhô – Capoeira** 
+**Fanta Konatê e Djembedon – Música Africana**  
+**Luana Bayô – Tambú – Vissungos, Jongos e Samba raiz**
 
 Os Shows completos podem ser conferidos no Canal da Pôr do Som no Youtube!
 
