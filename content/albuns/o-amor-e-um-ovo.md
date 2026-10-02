@@ -13,17 +13,18 @@ youtube: ""
 apple: ""
 deezer: ""
 texto_en: ""
-produtor: "teste"
-engenheiro: "teste"
-estudio: "teste"
+produtor: ""
+engenheiro: ""
+estudio: ""
 ano_gravacao: "2018"
 musicos:
-  - teste (violão
+  - teste (violão)
   - teste (contrabaixo)
   - teste (voz)
-isrc: "teste"
-gravadora: "teste"
-distribuidora: "teste"
+  - teste (sanfona)
+isrc: ""
+gravadora: ""
+distribuidora: ""
 ---
 
  teste teste teste
