@@ -257,6 +257,14 @@ def _pl_ordem(p):
     except: return 999
 playlists.sort(key=lambda p: (_pl_ordem(p), str(p.get('titulo', '')).lower()))
 
+def _proj_ordem(p):
+    o = p.get('ordem')
+    if isinstance(o, list): o = o[0] if o else None
+    try: return int(str(o).strip()) if o is not None and str(o).strip() else 999
+    except: return 999
+
+projetos.sort(key=lambda p: (_proj_ordem(p), str(p.get('titulo', '')).lower()))
+
 # ---------- Templates compartilhados ----------
 ATUAL_EH_HOME = True
 
@@ -264,7 +272,7 @@ def _nav(ativo=None):
     ITENS = [('Home', BASE + '/site.html'), ('Gravadora', '#gravadora'),
              ('Projetos', '#projetos'), ('Editora & Direitos', BASE + '/editora.html'),
              ('Audiovisual', '#audiovisual'), ('Playlists', BASE + '/playlists.html'),
-             ('Notícias', BASE + '/noticias.html'), ('Quem Somos', '#quemsomos'),
+             ('Notícias', BASE + '/noticias.html'), ('Quem Somos', BASE + '/quem-somos.html'),
              ('Contato', '#contato')]
     linhas = []
     for nome, href in ITENS:
@@ -383,30 +391,49 @@ def page_album(a, prev, next_):
                     for n, u in [('Spotify', a.get('spotify', '')), ('YouTube', a.get('youtube', '')),
                                  ('Apple', a.get('apple', '')), ('Deezer', a.get('deezer', ''))] if u)
 
-    _ficha_items = [
-        ('Produtor musical', a.get('produtor')),
-        ('Engenheiro de som', a.get('engenheiro')),
-        ('Estúdio', a.get('estudio')),
-        ('Ano de gravação', a.get('ano_gravacao')),
-        ('Músicos participantes', a.get('musicos')),
-        ('ISRC', a.get('isrc')),
-        ('Gravadora', a.get('gravadora')),
-        ('Distribuidora', a.get('distribuidora')),
-    ]
-    _ficha_linhas = ''
-    for _lbl, _val in _ficha_items:
-        if _val:
-            if isinstance(_val, list):
-                _val = ' · '.join(str(x) for x in _val)
-            _ficha_linhas += ('<div class="album-ficha-linha">'
-                              '<div class="album-ficha-label">' + esc(_lbl) + '</div>'
-                              '<div class="album-ficha-valor">' + esc(_val) + '</div>'
-                              '</div>')
+    _grupos = []
+    _prod = [(l, v) for l, v in [('Produtor musical', a.get('produtor')),
+                                  ('Engenheiro de som', a.get('engenheiro')),
+                                  ('Estúdio', a.get('estudio')),
+                                  ('Ano de gravação', a.get('ano_gravacao'))] if v]
+    if _prod: _grupos.append(('Produção', _prod))
+    _musicos_raw = a.get('musicos')
+    _musicos = []
+    if _musicos_raw:
+        if isinstance(_musicos_raw, list):
+            _musicos = [str(m) for m in _musicos_raw if str(m).strip()]
+        else:
+            _musicos = [str(_musicos_raw)]
+    if _musicos: _grupos.append(('Músicos participantes', _musicos))
+    _cat = [(l, v) for l, v in [('ISRC', a.get('isrc')),
+                                 ('Gravadora', a.get('gravadora')),
+                                 ('Distribuidora', a.get('distribuidora'))] if v]
+    if _cat: _grupos.append(('Ficha catalográfica', _cat))
+
+    _ficha_html = ''
+    for _titulo_g, _conteudo_g in _grupos:
+        if _titulo_g == 'Músicos participantes':
+            _linhas = ''.join('<li>' + esc(m) + '</li>' for m in _conteudo_g)
+            _ficha_html += ('<div class="album-ficha-grupo">'
+                            '<div class="album-ficha-grupo-titulo">' + esc(_titulo_g) + '</div>'
+                            '<ul class="album-ficha-musicos">' + _linhas + '</ul>'
+                            '</div>')
+        else:
+            _linhas = ''
+            for _lbl, _val in _conteudo_g:
+                _linhas += ('<div class="album-ficha-linha">'
+                            '<div class="album-ficha-label">' + esc(_lbl) + '</div>'
+                            '<div class="album-ficha-valor">' + esc(_val) + '</div>'
+                            '</div>')
+            _ficha_html += ('<div class="album-ficha-grupo">'
+                            '<div class="album-ficha-grupo-titulo">' + esc(_titulo_g) + '</div>'
+                            + _linhas +
+                            '</div>')
     ficha_html = ''
-    if _ficha_linhas:
+    if _ficha_html:
         ficha_html = ('<aside class="album-ficha">'
                       '<div class="album-ficha-titulo">Ficha técnica</div>'
-                      + _ficha_linhas +
+                      + _ficha_html +
                       '</aside>')
 
     prev_h = ('<a class="album-nav-link" href="' + BASE + '/albuns/' + prev['slug'] + '.html">&#8592; ' + esc(prev['titulo']) + '</a>') if prev else '<span></span>'
@@ -624,9 +651,9 @@ def gera_site():
     sec_av = _sec('audiovisual', 'Audiovisual', 'audio_titulo', 'audio_descricao',
                   '<div class="teaser-videos">\n' + vids_home + '\n</div>' + btn_av)
     # --- PLAYLISTS (teaser) ---
-    playlists_destaque = [p for p in playlists if p.get('destaque')][:3]
+    playlists_destaque = [p for p in playlists if p.get('destaque')][:4]
     if not playlists_destaque:
-        playlists_destaque = playlists[:3]
+        playlists_destaque = playlists[:4]
     if playlists_destaque:
         cards_pl = ''.join(_card_playlist(p) for p in playlists_destaque)
         btn_pl = ('<div style="text-align:center;margin-top:2.5rem">'
@@ -636,22 +663,22 @@ def gera_site():
     else:
         playlists_html = '<p style="text-align:center;color:var(--text-muted)">Nenhuma playlist cadastrada ainda.</p>'
     sec_pl = _sec('playlists', 'Playlists', 'home_playlists_titulo', None, playlists_html, alt=True)
-    # --- QUEM SOMOS (com stats migrados do manifesto + link pro Sérgio) ---
+    # --- QUEM SOMOS (teaser) ---
     stats = [('31', 'Obras no catálogo'), ('10+', 'Artistas'), ('3', 'Festivais próprios'), ('42', 'Vídeos produzidos')]
     stats_html = '\n'.join('<div class="stat-item fade-in"><div class="stat-num">' + n + '</div><div class="stat-label">' + l + '</div></div>' for n, l in stats)
-    portfolio = cfg_str('portfolio_link')
-    port_html = ('<div style="margin-top:2rem" class="fade-in"><a href="' + esc(portfolio) + '" target="_blank" rel="noopener" '
-                 'class="btn btn-outline" style="text-decoration:none">Currículo completo &amp; Portfolio ↗</a></div>') if portfolio else ''
-    _sergio_nome = cfg_str('sergio_nome', 'Sérgio Mendonça')
-    sergio_link = ('<div style="margin-top:2rem" class="fade-in"><a href="' + BASE + '/sergio-mendonca.html" '
-                   'class="btn btn-outline" style="text-decoration:none">Conheça a trajetória de ' + esc(_sergio_nome) + ' →</a></div>')
+    _texto_qs = _plain(cfg_str('quemsomos_texto'))
+    _resumo_qs = _texto_qs[:280] + ('…' if len(_texto_qs) > 280 else '')
+    if not _resumo_qs:
+        _resumo_qs = 'Mais de 20 anos de música brasileira de raiz — conheça a história do selo Por do Som.'
     sec_qs = ('<section class="teaser teaser-alt" id="quemsomos">\n<div class="container">\n'
               '        <div class="manifesto-content">\n'
               '            <span class="section-subtitle">Quem Somos</span>\n'
               '            <h2 class="section-title">Mais de 20 anos <span class="gradient">cantando o Brasil</span></h2>\n'
-              '            <div class="quemsomos-texto">' + md_html_v2(cfg_str('quemsomos_texto')) + '</div>\n'
+              '            <p class="manifesto-text">' + esc(_resumo_qs) + '</p>\n'
               '            <div class="manifesto-stats" style="margin-top:3rem">\n' + stats_html + '\n</div>\n'
-              + port_html + sergio_link + '\n        </div>\n</div>\n</section>\n')
+              '            <div style="margin-top:2rem"><a href="' + BASE + '/quem-somos.html" class="btn btn-outline" style="text-decoration:none">Ler mais sobre o selo →</a></div>\n'
+              '        </div>\n</div>\n</section>\n')
+
     # --- RECONHECIMENTO (prêmios do portfolio) ---
     premios = [cfg_str('premio' + str(i)) for i in range(1, 7)]
     premios = [p for p in premios if p]
@@ -1014,6 +1041,44 @@ def gera_editora():
     print('✔ editora.html gerada')
 
 
+# ---------- Página Quem Somos ----------
+def gera_quem_somos():
+    global ATUAL_EH_HOME
+    ATUAL_EH_HOME = False
+    texto = cfg_str('quemsomos_texto')
+    stats = [('31', 'Obras no catálogo'), ('10+', 'Artistas'), ('3', 'Festivais próprios'), ('42', 'Vídeos produzidos')]
+    stats_html = '\n'.join('<div class="stat-item fade-in"><div class="stat-num">' + n + '</div><div class="stat-label">' + l + '</div></div>' for n, l in stats)
+    portfolio = cfg_str('portfolio_link')
+    port_html = ('<div style="margin-top:2rem" class="fade-in"><a href="' + esc(portfolio) + '" target="_blank" rel="noopener" '
+                 'class="btn btn-outline" style="text-decoration:none">Currículo completo &amp; Portfolio ↗</a></div>') if portfolio else ''
+    _sergio_nome = cfg_str('sergio_nome', 'Sérgio Mendonça')
+    sergio_link = ('<div style="margin-top:1.5rem" class="fade-in"><a href="' + BASE + '/sergio-mendonca.html" '
+                   'class="btn btn-outline" style="text-decoration:none">Conheça a trajetória de ' + esc(_sergio_nome) + ' →</a></div>')
+    corpo = md_html_v2(texto) if texto else '<p style="color:var(--text-muted);text-align:center;font-style:italic">Conteúdo em breve.</p>'
+    body = ('<header class="header" id="header">\n<a href="' + BASE + '/site.html" class="logo">\n'
+            '        <span class="logo-mark"><img src="' + BASE + '/pordosom-profile.jpg" alt="Por do Som"></span>\n'
+            '        <span class="logo-text">PÔR DO SOM</span>\n</a>\n' + _nav('Quem Somos') +
+            '    <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>\n</header>\n'
+            '<header class="page-header">\n<div class="container">\n'
+            '        <span class="section-subtitle">Quem Somos</span>\n'
+            '        <h1 class="section-title">Mais de 20 anos <span class="gradient">cantando o Brasil</span></h1>\n'
+            '        <p class="section-description">A história do selo Por do Som — mais de duas décadas dedicadas às brasilidades.</p>\n'
+            '</div>\n</header>\n'
+            '<section class="editora-secao">\n<div class="container">\n'
+            '        <div class="editora-texto">' + corpo + '</div>\n'
+            '        <div class="manifesto-stats" style="margin-top:3rem">\n' + stats_html + '\n</div>\n'
+            '<div style="text-align:center">' + port_html + sergio_link + '</div>\n'
+            '</div>\n</section>\n'
+            '<section class="teaser teaser-alt">\n<div class="container" style="text-align:center">\n'
+            '        <p style="font-size:.95rem;color:var(--text-secondary);margin-bottom:1.5rem;max-width:640px;margin-left:auto;margin-right:auto">Quer conversar com o selo? Estamos à disposição.</p>\n'
+            '        <a href="' + BASE + '/site.html#contato" class="btn btn-outline" style="text-decoration:none">Entrar em contato →</a>\n'
+            '</div>\n</section>\n'
+            + _footer() + _scripts())
+    with open(os.path.join(BASE_DIR, 'quem-somos.html'), 'w', encoding='utf-8') as f:
+        f.write(_doc('Quem Somos — Por do Som', 'Mais de 20 anos de música brasileira de raiz — a história do selo Por do Som.', body))
+    print('✔ quem-somos.html gerada')
+
+
 def gera_json():
     def _n(a):
         capa = a.get('capa','')
@@ -1155,7 +1220,8 @@ def gera_sitemap():
            urls_noticias + \
            [DOMINIO + '/playlists.html'] + [DOMINIO + '/playlists/' + p.get('slug', slugify(p.get('titulo','playlist'))) + '.html' for p in playlists] + \
            [DOMINIO + '/sergio-mendonca.html'] + \
-           [DOMINIO + '/editora.html']
+           [DOMINIO + '/editora.html'] + \
+           [DOMINIO + '/quem-somos.html']
     hoje = datetime.now().strftime('%Y-%m-%d')
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for u in urls:
@@ -1286,6 +1352,7 @@ if __name__ == '__main__':
     gera_playlists()
     gera_sergio()
     gera_editora()
+    gera_quem_somos()
     gera_albuns()
     gera_noticias()
     gera_posts()

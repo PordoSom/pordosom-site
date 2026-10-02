@@ -612,6 +612,7 @@ td .artista-cell{font-size:.72rem;color:var(--text-muted)}
               </label>
             </div>
             <div class="f-field"><label>Ano</label><input id="fp-ano" type="number" min="2000" max="2035"></div>
+            <div class="f-field"><label>⭐ Ordem de exibição (opcional)</label><input id="fp-ordem" type="number" min="1" placeholder="vazio = ordem por ano"></div>
             <div class="f-field full"><label>Tipo / Badge</label><input id="fp-badge" type="text" placeholder="Festival, Serie..."></div>
             <div class="f-field full"><label>Link</label><input id="fp-link" type="url" placeholder="https://..."></div>
             <div class="f-field full"><label>Relatorio (PDF)</label><input id="fp-relatorio" type="url" placeholder="https://..."></div>
@@ -1941,6 +1942,7 @@ async function carregarProjetos() {
 function preencherEditorProjeto() {
   document.getElementById('fp-titulo').value = projetoAtual.titulo || '';
   document.getElementById('fp-ano').value = projetoAtual.ano || '';
+  document.getElementById('fp-ordem').value = projetoAtual.ordem || '';
   document.getElementById('fp-badge').value = projetoAtual.badge || '';
   document.getElementById('fp-link').value = projetoAtual.link || '';
   document.getElementById('fp-relatorio').value = projetoAtual.relatorio || '';
@@ -2004,6 +2006,7 @@ function montarMdProjeto() {
     + 'status: "' + status + '"\n'
     + 'badge: ' + q(val('fp-badge')) + '\n'
     + 'ano: ' + (val('fp-ano') || '""') + '\n'
+    + 'ordem: ' + q(val('fp-ordem')) + '\n'
     + 'imagem: ' + q(projetoAtual.imagem || '') + '\n'
     + 'link: ' + q(val('fp-link')) + '\n'
     + 'relatorio: ' + q(val('fp-relatorio')) + '\n'

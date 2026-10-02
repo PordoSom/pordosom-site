@@ -2217,3 +2217,40 @@ section {
 .editora-texto a { color: var(--brand-primary-light); }
 .editora-texto ul, .editora-texto ol { margin: 1rem 0 1rem 1.5rem; }
 .editora-texto li { margin: 0.4rem 0; }
+
+/* ===== FICHA TÉCNICA — GRUPOS (ajuste pré-migração) ===== */
+.album-ficha-grupo {
+    margin-bottom: 1.4rem;
+}
+.album-ficha-grupo:last-child {
+    margin-bottom: 0;
+}
+.album-ficha-grupo-titulo {
+    font-size: 0.55rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--brand-primary-light);
+    margin-bottom: 0.7rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-color-light);
+}
+.album-ficha-musicos {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.album-ficha-musicos li {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    padding: 0.35rem 0 0.35rem 1rem;
+    position: relative;
+    line-height: 1.4;
+}
+.album-ficha-musicos li::before {
+    content: '·';
+    position: absolute;
+    left: 0;
+    color: var(--brand-accent);
+    font-weight: 700;
+}
