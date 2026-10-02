@@ -12,14 +12,20 @@ tags:
   - Curadoria
 ---
 
-A 2ª edição do Festival Malungo acontece entre os dias 25 e 31 de março de 2024 em formato online para homenagear a cultura negra por meio de shows gravados e produzidos em vídeo. Ao todo, sete artistas e grupos representativos da música negra farão parte do evento.
+O Festival Malungo realizou uma homenagem à Cultura Negra, com a realização de shows on line, de 08 artistas representativos da música Negra. 
+Uma mostra de música inédita reunindo atrações musicais de nichos e estilos variados da música popular brasileira, que ressaltam nossa matriz africana, como o samba, jongo, capoeira, samba de roda, samba rock, choro, afro, batuque, samba de bumbo, partido-alto, entre outros.
 
-O Festival Malungo é um evento inédito de música que reúne artistas de diferentes nichos e estilos da música popular brasileira, como samba, bumba meu boi, coco, samba de roda, afro, partido-alto, entre outros. As apresentações virtuais acontecem depois de circulação por diversos palcos dos CEU’s da cidade de São Paulo (SP), em 2023, com o objetivo de aumentar o acesso à cultura e atingir novos públicos.
+**Adriana Moreira – Santa Segunda - Samba raiz 
+Henrique Araújo – Choro Negro - Choro 
+A Quatro Vozes – Brasilidades – Música popular 
+Zé Eduardo – Fechado pra Balanço – Soul e Mpb  
+Grupo Paranapanema – Segura nessa pisada – Samba raiz, Jongos e Batuques 
+Mestre Plinio e Angoleiro Sim Sinhô – Capoeira 
+Fanta Konatê e Djembedon – Música Africana  
+Luana Bayô – Tambú – Vissungos, Jongos e Samba raiz**
 
-A palavra ‘malungo’ significa amigo, companheiro, camarada, aquele que não deixa o parceiro no meio do caminho. “O termo é adequado para nomear o projeto, considerando o grande time de artistas unidos para cantar e fortalecer a música que traz o som e a vibração de nossas raízes africanas”, explica o produtor e diretor artístico Sérgio Mendonça.
+Os Shows completos podem ser conferidos no Canal da Pôr do Som no Youtube!
 
+[texto do link](https://www.youtube.com/watch?v=43Aj0IkxBbs)
 
-
-{{galeria: /images/uploads/2026-09-17-gal-lwguw.jpg}}
-
-https://www.youtube.com/watch?v=lmVf87iV_0g&t=1583s
+[texto do link](https://www.youtube.com/watch?v=1o3IyUthA4k)
