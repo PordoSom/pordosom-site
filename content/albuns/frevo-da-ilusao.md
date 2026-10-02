@@ -21,7 +21,7 @@ musicos:
   - Tião Carvalho (Voz e Percussão)
   - Zeca Baleiro (voz)
 isrc: ""
-gravadora: "Por do Som"
+gravadora: "Pôr do Som"
 distribuidora: ""
 ---
 
