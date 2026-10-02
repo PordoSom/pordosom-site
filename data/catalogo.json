@@ -290,18 +290,18 @@
   ],
   "projetos": [
     {
-      "slug": "festival-arte-educar",
-      "titulo": "Festival Arte Educar",
-      "status": "realizado",
-      "ano": "2022",
-      "badge": ""
-    },
-    {
       "slug": "festival-malungo",
       "titulo": "Festival Malungo destaca raízes africanas da música popular brasileira",
       "status": "realizado",
       "ano": "2024",
       "badge": "Festival Cultural"
+    },
+    {
+      "slug": "festival-arte-educar",
+      "titulo": "Festival Arte Educar",
+      "status": "realizado",
+      "ano": "2022",
+      "badge": ""
     },
     {
       "slug": "festival-mestres-dos-saberes",
