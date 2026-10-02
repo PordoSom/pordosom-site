@@ -9,9 +9,9 @@ destaque: true
 faixas: 14
 ordem: "1"
 spotify: "https://open.spotify.com/intl-pt/album/5lyCKv8CQ7ZSKKs0yvxP4H?si=HzVbV4pvQ16l3CrJpIMkAA"
-youtube: "https://www.youtube.com/watch?v=Rsvx9MaICak&list=RDRsvx9MaICak&start_radio=1"
+youtube: "https://www.youtube.com/watch?v=9iafEsltsGo"
 apple: ""
-deezer: ""
+deezer: "https://www.deezer.com/br/album/6986485"
 texto_en: "Celebrating the legacy of the legendary João do Vale, Maranhão-born artist Tião Carvalho delivers a vibrant album that bridges roots folklore with timeless MPB (Musica Popular Brasileira). The record beautifully balances hidden gems like Baião de Viola, Os Óio de Anabela, and Todos Cantam sua Terra with explosive, household classics like Matuto Transviado (Coronel Antonio Bento), A Voz do Povo, Peba na Pimenta, and a powerful rendition of Carcará reimagined in the traditional Bumba meu Boi rhythm. Featuring stellar guest appearances by Zeca Baleiro, Trio Virgulino, and Divina Batucada, this album is a rich tapestry of Afro-Brazilian and Northeastern rhythms—weaving together xotes, baiões, sambas, bumba-meu-boi, and the deep, hypnotic groove of tambor de crioula. It is an essential listen for anyone looking to reconnect with the authentic, soulful heartbeat of Brazil."
 produtor: ""
 engenheiro: ""
