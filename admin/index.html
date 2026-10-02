@@ -159,7 +159,7 @@ td .artista-cell{font-size:.72rem;color:var(--text-muted)}
 <div class="login-screen" id="login-screen">
   <div class="login-box">
     <div class="login-logo">
-      <img src="/pordosom-site/pordosom-profile.jpg" alt="Por do Som">
+      <img src="/pordosom-profile.jpg" alt="Por do Som">
       <span>PÔR DO SOM</span>
     </div>
     <p class="login-sub">Painel de Edição</p>
@@ -180,7 +180,7 @@ td .artista-cell{font-size:.72rem;color:var(--text-muted)}
 <div class="layout hidden" id="painel">
   <aside class="sidebar">
     <div class="sidebar-brand">
-      <img src="/pordosom-site/pordosom-profile.jpg" alt="">
+      <img src="/pordosom-profile.jpg" alt="">
       <span>PÔR DO SOM</span>
     </div>
     <button class="side-item ativo" data-pagina="inicio"><span class="icone">🏠</span> Início</button>
@@ -196,7 +196,7 @@ td .artista-cell{font-size:.72rem;color:var(--text-muted)}
       <button class="side-sair" onclick="sair()">Sair do painel</button>
       <div class="ka-signature">
           <a href="https://kaagenciacriativa.com.br/" target="_blank" rel="noopener">
-              <div class="ka-logo-circle"><img src="/pordosom-site/img/ka-logo.png" alt="KA. Agência Criativa" style="width:100%;height:100%;object-fit:cover;border-radius:50%"></div>
+              <div class="ka-logo-circle"><img src="/img/ka-logo.png" alt="KA. Agência Criativa" style="width:100%;height:100%;object-fit:cover;border-radius:50%"></div>
               <div class="ka-text-main">KA. Agência Criativa.</div>
               <div class="ka-text-sub">Presença digital sem ruído</div>
           </a>
@@ -832,7 +832,7 @@ function filtrarTabela(tipo) {
 // Login + Álbuns (listar/editar/criar/excluir/ordenar) + Notícias
 // ==========================================================
 const REPO = 'kleber-albuquerque/pordosom-site';
-const BASE = '/pordosom-site';   // '' no dia do domínio próprio
+const BASE = '';   // '' no dia do domínio próprio
 const API = 'https://api.github.com';
 
 let TOKEN = localStorage.getItem('pds_token') || '';

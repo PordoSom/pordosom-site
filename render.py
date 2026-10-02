@@ -23,8 +23,8 @@ PASTA = {
     'config': os.path.join(BASE_DIR, 'content', 'config'),
     'playlists': os.path.join(BASE_DIR, 'content', 'playlists'),
 }
-BASE = '/pordosom-site'
-DOMINIO = 'https://kleber-albuquerque.github.io' + BASE
+BASE = ''
+DOMINIO = 'https://pordosom.com.br'
 
 GENEROS = {
     'samba-de-raiz': 'Samba de Raiz', 'instrumental': 'Instrumental',
