@@ -18,10 +18,8 @@ engenheiro: ""
 estudio: "Estudio 185 Apodi"
 ano_gravacao: ""
 musicos:
-  - Tião Carvalho
-  - Voz e Percussão
-  - Zeca Baleiro
-  - Voz
+  - Tião Carvalho (Voz e Percussão)
+  - Zeca Baleiro (voz)
 isrc: ""
 gravadora: "Por do Som"
 distribuidora: ""
