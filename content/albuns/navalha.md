@@ -7,13 +7,20 @@ generos:
   - mpb
 destaque: true
 faixas: 1
+ordem: ""
 spotify: ""
-youtube: "https://www.youtube.com/results?search_query=Jonathan+Silva+Navalha"
+youtube: "https://www.youtube.com/watch?v=Kvk4-ykWP3c"
 apple: ""
-deezer: ""
-texto_en: "Sharp in title, precise in execution. \"Navalha\" shows songwriter Jonathan Silva honing word and chord: a keen-eyed song about the world, no fat, every verse where it belongs. Proof that Por do Som bets on authors — not formulas."
+deezer: "https://www.deezer.com/br/album/669396531"
+texto_en: "Sharp in title, precise in execution. \\"Navalha\\" shows songwriter Jonathan Silva honing word and chord: a keen-eyed song about the world, no fat, every verse where it belongs. Proof that Por do Som bets on authors — not formulas."
+produtor: ""
+engenheiro: ""
+estudio: ""
+ano_gravacao: ""
+musicos:
+isrc: ""
+gravadora: ""
+distribuidora: ""
 ---
 
-Cortante no título, precisa na execução. "Navalha" mostra o compositor Jonathan Silva afiando palavra e acorde: uma canção de observação afiada sobre o mundo, sem gordura, cada verso no lugar que deve estar.
-
-Mais uma prova de que o Por do Som aposta em autores — não em fórmulas. O futuro da canção brasileira se escreve também com quem ainda está construindo o nome.
+ Jonathan Silva é capixaba radicado em São Paulo. Com quatro discos autorais lançados e composições gravados por nomes como Ná Ozzetti, Ceumar, Marecelo Pretto, Metá Metá, entre outros artistas, Jonathan vem se destacando na cena musical brasileira contemporânea. Suas composições misturam as linguagens do congo, samba,  jongo e baião com influências da vanguarda paulistana. Jonathan, que também atua como compositor de músicas para teatro, é um dos fundadores do Bloco Agora Vai.
