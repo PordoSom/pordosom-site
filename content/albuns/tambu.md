@@ -13,18 +13,22 @@ spotify: "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "\"\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\"Tambú,\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments.
-
-
-Luana Bayô es una cantante, compositora y educadora de São Paulo. Su obra está profundamente marcada por la fuerza de la música de la diáspora africana. En su proyecto \"Tambú\", nos invita a conectar con canciones de su autoría y reinterpretaciones que abordan la espiritualidad, la magia, los hechizos y los encantamientos.
-Su propuesta sonora está atravesada por una rica musicalidad que conecta las tradiciones Congo-Angola, los ritmos Mandinga y las raíces afrobrasileñas del Caboclo. A través de vissungos (cantos afrobrasileños ancestrales), sambas, jongos y otros géneros tradicionales que definen su trayectoria, la artista renueva estos sonidos ancestrales con arreglos contemporáneos.
-Con dirección musical de Giovanni Diganzá y dirección artística de Martinha Soares, \"Tambú\" cuenta con la participación de Xeina Barros y Cauê Silva en la percusión, Thayná Oliveira en el violonchelo y Mayara Almeida en el saxo y la flauta."
+texto_en: "\"\\"\\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\\"Tambú,\\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments."
 produtor: ""
 engenheiro: ""
 estudio: ""
 ano_gravacao: ""
 musicos:
-  - Músicos:  Luana Bayô – Voz Thayná Oliveira – Violoncello Giovanni Diganzá – Violão/ Viola Mayara Almeida – Sax/ Flauta Transversal Cauê Silva – Percussão Geral Xeina Barros – Percussão Geral  Ficha Técnica do show: Concepção: Luana Bayô  Direção Artística: Martinha Soares  Complementação de cenário: Martinha Soares  Produção: Ligia Fernandes Arranjos: Giovanni Diganzá Maquiagem: Jhonny Bodonni Figurino: Mônica Anjos Cabelo: Josyas BarberShop Acessórios: Ojirê Ventura  Ficha técnica Equipe Pôr do Som e Estúdio 185: Realização: PÔR DO SOM  Produção Executiva: SÉRGIO MENDONÇA Direção de Produção: LEONARDO ESCOBAR Entrevistas: BENTO ANDREATO Assistente de Produção: JOSÉ MARCOS PIRES BUENO Direção Artística: SÉRGIO MENDONÇA Projeto gráfico e Comunicação: PATRICK KARASSAWA Direção de Arte e Cenografia: NANI OLIVEIRAS Apresentação: MARTINHA SOARES E NALOANA LIMA Assessoria de Imprensa: VERBENA COMUNICAÇÃO Música abertura: JOMBÔ (VISSUNGOS/ DOMÍNIO PÚBLICO) – LUANA BAYÔ  Direção Audiovisual: BETO MENDONÇA Gravação: ESTÚDIO 185 APODI Técnico de Som: GUSTAVO DO VALE Câmera e Edição ao vivo: BRUNO MARQUES Câmera e assistência: GABI OLIVEIRA E LUZIA BARROS Finalização: BETO MENDONÇA E JEANNINE GENTILE
+  - Músicos:  Luana Bayô – Voz
+  - Thayná Oliveira – Violoncello
+  - Giovanni Diganzá – Violão/ Viola
+  - Mayara Almeida – Sax/ Flauta
+  - Transversal
+  - Cauê Silva – Percussão Geral
+  - Xeina Barros – Percussão
+  - Geral
+  - Ficha Técnica do show: Concepção: Luana Bayô
+  - Direção Artística: Martinha Soares  Complementação de cenário: Martinha Soares  Produção: Ligia Fernandes Arranjos: Giovanni Diganzá Maquiagem: Jhonny Bodonni Figurino: Mônica Anjos Cabelo: Josyas BarberShop Acessórios: Ojirê Ventura  Ficha técnica Equipe Pôr do Som e Estúdio 185: Realização: PÔR DO SOM  Produção Executiva: SÉRGIO MENDONÇA Direção de Produção: LEONARDO ESCOBAR Entrevistas: BENTO ANDREATO Assistente de Produção: JOSÉ MARCOS PIRES BUENO Direção Artística: SÉRGIO MENDONÇA Projeto gráfico e Comunicação: PATRICK KARASSAWA Direção de Arte e Cenografia: NANI OLIVEIRAS Apresentação: MARTINHA SOARES E NALOANA LIMA Assessoria de Imprensa: VERBENA COMUNICAÇÃO Música abertura: JOMBÔ (VISSUNGOS/ DOMÍNIO PÚBLICO) – LUANA BAYÔ  Direção Audiovisual: BETO MENDONÇA Gravação: ESTÚDIO 185 APODI Técnico de Som: GUSTAVO DO VALE Câmera e Edição ao vivo: BRUNO MARQUES Câmera e assistência: GABI OLIVEIRA E LUZIA BARROS Finalização: BETO MENDONÇA E JEANNINE GENTILE
 isrc: ""
 gravadora: ""
 distribuidora: ""
