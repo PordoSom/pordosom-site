@@ -8,4 +8,4 @@ ordem: ""
 destaque: true
 ---
 
-Cantigas de Roda, Roda de Histósias, Trava Línguas e muito mais, com Palavra Cantada, Cia Cabelo de Maria, Girasonhos, Brasileirinhos, entre outros
+Cantigas de Roda, Roda de Histórias, Trava Línguas e muito mais, com Palavra Cantada, Cia Cabelo de Maria, Girasonhos, Brasileirinhos, entre outros
