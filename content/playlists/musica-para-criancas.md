@@ -3,9 +3,9 @@ titulo: "Música para Crianças"
 plataforma: "spotify"
 embed_id: "https://open.spotify.com/playlist/37tPgIVIw9dQm0zNz3ooGa?si=4a0c4cfbeaff41b0"
 capa: "/images/uploads/playlist-musica-para-criancas.jpg"
-descricao_curta: "Cantigas de Roda, Roda de Histósias, Trava Línguas e muito mais"
+descricao_curta: "Cantigas de roda, rodas de historias, trava-linguas e muito mais."
 ordem: ""
 destaque: true
 ---
 
-Cantigas de Roda, Roda de Histórias, Trava Línguas e muito mais, com Palavra Cantada, Cia Cabelo de Maria, Girasonhos, Brasileirinhos, entre outros
+Uma selecao especial do selo Por do Som com grandes nomes da musica infantil, reunindo Palavra Cantada, Cia Cabelo de Maria, Girasonhos, Brasileirinhos e muito mais. Siga e ouca no Spotify!
