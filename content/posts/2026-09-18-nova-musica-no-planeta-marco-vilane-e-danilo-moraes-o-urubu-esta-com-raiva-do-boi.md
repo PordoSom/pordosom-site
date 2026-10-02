@@ -1,8 +1,7 @@
 ---
-title: "Nova Música no Planeta! Marco Vilane e Danilo Moraes - O Urubu Está com Raiva do Boi"
+title: "Nova Música no Planeta!"
 date: 2026-09-18
-resumo: "Nova Música no Planeta!
-Marco Vilane e Danilo Moraes - O Urubu Está com Raiva do Boi"
+resumo: "Marco Vilane e Danilo Moraes - O Urubu Está com Raiva do Boi"
 rascunho: false
 imagem: "/images/uploads/2026-09-18-nova-musica-no-planeta-marco-vilane-e-danilo-moraes-o-urubu-esta-com-raiva-do-boi.jpg"
 ---
