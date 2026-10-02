@@ -675,8 +675,8 @@ def gera_site():
               '            <span class="section-subtitle">Quem Somos</span>\n'
               '            <h2 class="section-title">Mais de 20 anos <span class="gradient">cantando o Brasil</span></h2>\n'
               '            <p class="manifesto-text">' + esc(_resumo_qs) + '</p>\n'
-              '            <div class="manifesto-stats" style="margin-top:3rem">\n' + stats_html + '\n</div>\n'
               '            <div style="margin-top:2rem"><a href="' + BASE + '/quem-somos.html" class="btn btn-outline" style="text-decoration:none">Ler mais sobre o selo →</a></div>\n'
+              '            <div class="manifesto-stats" style="margin-top:3rem">\n' + stats_html + '\n</div>\n'
               '        </div>\n</div>\n</section>\n')
 
     # --- RECONHECIMENTO (prêmios do portfolio) ---
@@ -1053,7 +1053,7 @@ def gera_quem_somos():
                  'class="btn btn-outline" style="text-decoration:none">Currículo completo &amp; Portfolio ↗</a></div>') if portfolio else ''
     _sergio_nome = cfg_str('sergio_nome', 'Sérgio Mendonça')
     sergio_link = ('<div style="margin-top:1.5rem" class="fade-in"><a href="' + BASE + '/sergio-mendonca.html" '
-                   'class="btn btn-outline" style="text-decoration:none">Conheça a trajetória de ' + esc(_sergio_nome) + ' →</a></div>')
+                   'class="btn btn-outline" style="text-decoration:none">Sobre ' + esc(_sergio_nome) + ' →</a></div>')
     corpo = md_html_v2(texto) if texto else '<p style="color:var(--text-muted);text-align:center;font-style:italic">Conteúdo em breve.</p>'
     body = ('<header class="header" id="header">\n<a href="' + BASE + '/site.html" class="logo">\n'
             '        <span class="logo-mark"><img src="' + BASE + '/pordosom-profile.jpg" alt="Por do Som"></span>\n'
