@@ -13,7 +13,10 @@ spotify: "https://open.spotify.com/track/1lAQfwQ3DwYhRn9ScUGL1T"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: ""
+texto_en: "Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone.
+Born from the local sarau movement, he crafts singular songs and sensitive interpretations of Afro-Brazilian and Afro-Indigenous ancestralities, delivering a rhythmic, seasoned style of MPB.
+Aloysio invites us on an emotional journey that dialogues with the rich heritage of 1980s and 2000s MPB. He blends the black traditions of Candomblé, pop elements, and the refined instrumentation of a chamber orchestra into an intimate and incandescent performance.
+Songs of origin, inspiration, and affirmation of Black identities and powers, rising toward a new dawn"
 produtor: ""
 engenheiro: ""
 estudio: ""
@@ -24,5 +27,10 @@ gravadora: ""
 distribuidora: ""
 ---
 
- [TEXTO A REDIGIR — gerado em lote]
-<!-- OBS DA PESQUISA: EP, 5 faixas -->
+ Aloysio Letra é cantor e compositor da periferia da zona leste de São Paulo. 
+
+Cria dos saraus, compõe canções singulares e interpretações sensíveis das ancestralidades afro-brasileiras e afro-indígenas, numa MPB sambada e temperada.
+
+Aloysio convida a uma jornada emocional que dialoga com a rica herança da MPB das décadas de 80 e 2000, misturando influências das tradições negras do candomblé, do pop e da requintada instrumentação de orquestra de câmara em uma apresentação intimista e incandescente
+
+Cantos de origem, de inspiração e de afirmação das identidades e potências da negritude por novas manhãs.
