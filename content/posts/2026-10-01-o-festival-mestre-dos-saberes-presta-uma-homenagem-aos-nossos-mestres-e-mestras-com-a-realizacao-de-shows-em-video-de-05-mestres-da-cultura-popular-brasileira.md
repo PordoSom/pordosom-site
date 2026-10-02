@@ -1,7 +1,7 @@
 ---
-title: "O Festival “Mestre dos Saberes”, presta uma homenagem aos nossos Mestres e Mestras, com a realização de shows em vídeo, de 05 Mestres da Cultura Popular Brasileira."
+title: "Festival Mestre dos Saberes"
 date: 2021-10-12
-resumo: ""
+resumo: "Uma homenagem aos nossos Mestres e Mestras, com a realização de shows em vídeo, de 05 Mestres da Cultura Popular Brasileira."
 rascunho: false
 imagem: "/images/uploads/2026-10-01-o-festival-mestre-dos-saberes-presta-uma-homenagem-aos-nossos-mestres-e-mestras-com-a-realizacao-de-shows-em-video-de-05-mestres-da-cultura-popular-brasileira.jpg"
 ---
