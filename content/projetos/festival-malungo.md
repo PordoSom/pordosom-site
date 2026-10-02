@@ -3,6 +3,7 @@ titulo: "Festival Malungo destaca raízes africanas da música popular brasileir
 status: "realizado"
 badge: "Festival Cultural"
 ano: 2024
+ordem: "1"
 imagem: "/images/uploads/projeto-festival-malungo.jpg"
 link: ""
 relatorio: ""
