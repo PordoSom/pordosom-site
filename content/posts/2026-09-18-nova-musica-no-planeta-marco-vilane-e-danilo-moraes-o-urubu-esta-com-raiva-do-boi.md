@@ -6,7 +6,8 @@ rascunho: false
 imagem: "/images/uploads/2026-09-18-nova-musica-no-planeta-marco-vilane-e-danilo-moraes-o-urubu-esta-com-raiva-do-boi.jpg"
 ---
 
-Lançada nos anos 70 por Baiano e os Novos Caetanos, retorna em uma nova interpretação de Marco Vilane e Danilo Moraes.
+Lançada nos anos 70 por **Baiano e os Novos Caetanos,** retorna em uma nova interpretação de **{{spotify: https://open.spotify.com/intl-pt/track/4sCyhOaEaYxDfL5nnWHULU?si=942429fabdfc42ce}}
+Marco Vilane e Danilo Moraes**.
 
 Criada por Chico Anysio e Arnaud Rodrigues, a canção se tornou uma pequena joia satírica da música brasileira, usando humor e metáfora para falar de sobrevivência, disputa e desigualdade social.
 
