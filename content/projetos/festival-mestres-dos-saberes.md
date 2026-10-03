@@ -3,7 +3,8 @@ titulo: "Festival Mestres dos Saberes"
 status: "realizado"
 badge: "Festival Cultural"
 ano: 2018
-imagem: "/img/project-mestres.jpg"
+ordem: ""
+imagem: "/images/uploads/projeto-festival-mestres-dos-saberes.jpg"
 link: ""
 relatorio: ""
 tags:
@@ -22,10 +23,10 @@ Uma mostra de música inédita reunindo atrações musicais de nichos e estilos 
 
 Mestres com uma vida inteira dedicada à cultura popular brasileira, com o objetivo de reconhecer, valorizar e divulgar a atuação dos mestres e mestras, responsáveis pela transmissão e perpetuação de saberes, celebrações e formas de expressão que compõem o nosso patrimônio cultural.
 
-- Tião Carvalho 
-– Mestre Lumumba 
-– Mestre Kenura
-– Ana Maria Carvalho  
- – Saravá Jongueiros: São Paulo + Guarátinguetá
+**- Tião Carvalho **
+**– Mestre Lumumba **
+**– Mestre Kenura**
+**– Ana Maria Carvalho ** 
+ **– Saravá Jongueiros: São Paulo + Guarátinguetá**
 
 https://www.youtube.com/watch?v=rqSUVRWmHF0&list=PLFwSUQfrxbVQFSZ6UnrFhRwZ0YBkoajMD&index=1&t=4605s
