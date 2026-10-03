@@ -19,65 +19,50 @@ O Festival teve como objetivo promover o acesso da população à cultura popula
 Shows
 
 01 - 20/05 – 10h - CEU Meninos
-Pequeno Coração Caipira – Caipira Caiçara 
-Quantidade de público: 210 Crianças
+**Pequeno Coração Caipira – Caipira Caiçara **
+
 02 - 20/05 - 15h - CEU Meninos
-Lili Flor & Paulo Pixu – Brinquedo de Palavras
-Quantidade de público: 219 Crianças
+**Lili Flor & Paulo Pixu – Brinquedo de Palavras**
 
 03 - 28/05 – 10h – Ceu Perus
-POIN - Pequena Orquestra Interativa
-Quantidade de público: 270 Crianças	
+**POIN - Pequena Orquestra Interativa**
 
 04 - 28/05 - 15h - Ceu Perus
-Grupo Girasonhos – Canta Girasonhos
-Quantidade de público: 250 Crianças
+**Grupo Girasonhos – Canta Girasonhos**
 
 05 - 04/06 - 10h -  Ceu Caminho do Mar
-Pequeno Coração Caipira – Caipira Caiçara
-Quantidade de público: 240 Crianças
+**Pequeno Coração Caipira – Caipira Caiçara**
 
 06 - 04/06 –15h - Ceu Caminho do Mar
-Inimar dos Reis – Eco Folias
-Quantidade de público: 255 Crianças
+**Inimar dos Reis – Eco Folias**
 
 07 - 11/06– Ceu Inacio Monteiro – 10h
-Clara Dum – Que Som Você Tem?
-Quantidade de público: 260 Crianças
+**Clara Dum – Que Som Você Tem?**
 
 08 - 11/06 –– 15h Ceu Inacio Monteiro
-Cris Barulins – Pandeirodê
-Quantidade de público: 240 Crianças
+**Cris Barulins – Pandeirodê**
 
 09 - 19/06 – Ceu Capão Redondo – 10h
-Cia da Lira – Ganso de Ouro 
-Quantidade de público: 190 Crianças
-
-
+**Cia da Lira – Ganso de Ouro** 
 
 10 - 19/06 – 15h - Ceu Capão Redondo
-Cris Miguel e Angelo Miguel - Fadas
-Quantidade de público: 190 Crianças
+**Cris Miguel e Angelo Miguel - Fadas**
 
 11 - 21/06 –– 10h – Ceu Butantã
-Zé Eduardo – Guitarrada para Crianças
-Quantidade de público: 150 Crianças
+**Zé Eduardo – Guitarrada para Crianças**
 
 12 - 21/06 –15h Ceu Butantã
-Cia Cabelo de Maria – São João do Carneirinho
-Quantidade de público: 150 Crianças
+**Cia Cabelo de Maria** – São João do Carneirinho
 
 Oficinas
 20/05 – 14h – Ceu Meninos
-Oficina Cultural Giba Pedroza – Brincando de Poesia 
-Quantidade de público: 40 Crianças
+Oficina Cultural **Giba Pedroza – Brincando de Poesia** 
 
 04/06 – 14h – Ceu Caminho do Mar
-Oficina Cris Miguel – Cantos do Mundo
-Quantidade de público: 40 Crianças
+Oficina **Cris Miguel – Cantos do Mundo**
 
 Vídeos
 27/08 – Gravação do Show em Vídeo
-Lili Flor & Paulo Pixu – Brinquedos de Palavra
+**Lili Flor & Paulo Pixu – Brinquedos de Palavra**
 
 https://www.youtube.com/watch?v=ISmHe1utFuE
