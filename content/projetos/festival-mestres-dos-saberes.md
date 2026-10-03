@@ -29,4 +29,14 @@ Mestres com uma vida inteira dedicada à cultura popular brasileira, com o objet
 **– Ana Maria Carvalho ** 
  **– Saravá Jongueiros: São Paulo + Guarátinguetá**
 
-https://www.youtube.com/watch?v=rqSUVRWmHF0&list=PLFwSUQfrxbVQFSZ6UnrFhRwZ0YBkoajMD&index=1&t=4605s
+Vídeos completos no Canal da Por do Som no You Tube, confiram:
+
+https://www.youtube.com/watch?v=9iafEsltsGo
+
+https://www.youtube.com/watch?v=HI27c-Qyb1M
+
+https://www.youtube.com/watch?v=lGKUX4gffIY
+
+https://www.youtube.com/watch?v=xlPVIA1bkB8
+
+https://www.youtube.com/watch?v=dUtt89qWSg0&t=17s
