@@ -6,7 +6,7 @@ rascunho: false
 imagem: "/images/uploads/2026-09-12-o-por-do-som-ganha-casa-nova.jpg"
 ---
 
-O Pôr do Som agora está de casa nova digital.
+A Pôr do Som agora está de casa nova digital.
 
 São mais de vinte anos de música brasileira de raiz — e até hoje, essa história vivia espalhada: discos no Spotify, vídeos no YouTube, memórias no Instagram. O novo site reúne tudo sob o mesmo teto.
 
@@ -18,7 +18,7 @@ São mais de vinte anos de música brasileira de raiz — e até hoje, essa hist
 
 **A produção audiovisual** — os festivais Malungo e Mestres dos Saberes, a série Sotaques do Brasil e dezenas de vídeos do canal, agora organizados e assistíveis direto do site.
 
-**A curadoria** — dez playlists que mapeiam a música brasileira de raiz, do samba de terreiro ao tambor de crioula.
+**A curadoria** — Playlists que mapeiam a música brasileira de raiz, do samba de terreiro ao tambor de crioula.
 
 ## Um site que respira o selo
 
