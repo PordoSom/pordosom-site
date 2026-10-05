@@ -1,6 +1,6 @@
 ---
 title: "Mestra Rosália e Cia Cabelo de Maria - A Luz que me Alumeia"
-date: 2026-10-05
+date: 2026-10-04
 resumo: "Mestra Rosália, trabalhadora rural do povoado Vila Fernandes, Arapiraca, Alagoas, perto de completar 80 anos, lança seu primeiro álbum."
 rascunho: false
 imagem: "/images/uploads/2026-10-05-mestra-rosalia-e-cia-cabelo-de-maria-a-luz-que-me-alumeia.jpg"
