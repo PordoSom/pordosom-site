@@ -1,13 +1,17 @@
 ---
 titulo: "Caravana Brasil Instrumental"
 status: "realizado"
-badge: ""
-ano: 2026
+badge: "Festival de Música  Instrumental"
+ano: 2014
 ordem: ""
 imagem: "/images/uploads/projeto-caravana-brasil-instrumental.jpg"
 link: ""
 relatorio: ""
 tags:
+  - Música Instrumental
+  - Jazz
+  - Choro
+  - Brazilian Jazz
 ---
 
 **20 apresentações, 5 cidades + websérie**
