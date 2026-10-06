@@ -13,7 +13,7 @@ spotify: "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "\"\\"\\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\\"Tambú,\\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments."
+texto_en: "\\"\\\"\\\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\\\"Tambú,\\\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments."
 produtor: ""
 engenheiro: ""
 estudio: ""
@@ -28,7 +28,22 @@ musicos:
   - Xeina Barros – Percussão
   - Geral
   - Ficha Técnica do show: Concepção: Luana Bayô
-  - Direção Artística: Martinha Soares  Complementação de cenário: Martinha Soares  Produção: Ligia Fernandes Arranjos: Giovanni Diganzá Maquiagem: Jhonny Bodonni Figurino: Mônica Anjos Cabelo: Josyas BarberShop Acessórios: Ojirê Ventura  Ficha técnica Equipe Pôr do Som e Estúdio 185: Realização: PÔR DO SOM  Produção Executiva: SÉRGIO MENDONÇA Direção de Produção: LEONARDO ESCOBAR Entrevistas: BENTO ANDREATO Assistente de Produção: JOSÉ MARCOS PIRES BUENO Direção Artística: SÉRGIO MENDONÇA Projeto gráfico e Comunicação: PATRICK KARASSAWA Direção de Arte e Cenografia: NANI OLIVEIRAS Apresentação: MARTINHA SOARES E NALOANA LIMA Assessoria de Imprensa: VERBENA COMUNICAÇÃO Música abertura: JOMBÔ (VISSUNGOS/ DOMÍNIO PÚBLICO) – LUANA BAYÔ  Direção Audiovisual: BETO MENDONÇA Gravação: ESTÚDIO 185 APODI Técnico de Som: GUSTAVO DO VALE Câmera e Edição ao vivo: BRUNO MARQUES Câmera e assistência: GABI OLIVEIRA E LUZIA BARROS Finalização: BETO MENDONÇA E JEANNINE GENTILE
+  - Direção Artística: Martinha Soares  Complementação de cenário: Martinha Soares  Produção: Ligia Fernandes Arranjos: Giovanni Diganzá Maquiagem: Jhonny Bodonni Figurino: Mônica Anjos Cabelo: Josyas BarberShop Acessórios: Ojirê Ventura
+  - Ficha técnica
+  - Equipe Pôr do Som e Estúdio 185
+  - Realização: PÔR DO SOM
+  - Produção Executiva: SÉRGIO MENDONÇA
+  - Direção de Produção: LEONARDO ESCOBAR
+  - Entrevistas: BENTO ANDREATO
+  - Assistente de Produção: JOSÉ MARCOS PIRES BUENO
+  - Direção Artística: SÉRGIO MENDONÇA
+  - Projeto gráfico e Comunicação: PATRICK KARASSAWA
+  - Direção Audiovisual: BETO MENDONÇA
+  - Gravação: ESTÚDIO 185 APODI
+  - Técnico de Som: GUSTAVO DO VALE
+  - Câmera e Edição ao vivo: BRUNO MARQUES
+  - Câmera e assistência: GABI OLIVEIRA E LUZIA BARROS
+  - Finalização: BETO MENDONÇA E JEANNINE GENTILE
 isrc: ""
 gravadora: ""
 distribuidora: ""
