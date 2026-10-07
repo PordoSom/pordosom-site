@@ -9,7 +9,7 @@ destaque: false
 faixas: 4
 ordem: ""
 spotify: "https://open.spotify.com/album/6AzDtAWEOWEeFn53aaJSZt"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=PHpyFy9cOAI"
 apple: ""
 deezer: ""
 texto_en: ""
