@@ -23,5 +23,10 @@ gravadora: ""
 distribuidora: ""
 ---
 
- [TEXTO A REDIGIR — gerado em lote]
-<!-- OBS DA PESQUISA: EP de estreia, feats. Jé Oliveira, Luedji Luna -->
+ Aloysio Letra é cantor e compositor da periferia da zona leste de São Paulo. 
+
+Cria dos saraus, compõe canções singulares e interpretações sensíveis das ancestralidades afro-brasileiras e afro-indígenas, numa MPB sambada e temperada.
+
+Aloysio convida a uma jornada emocional que dialoga com a rica herança da MPB das décadas de 80 e 2000, misturando influências das tradições negras do candomblé, do pop e da requintada instrumentação de orquestra de câmara em uma apresentação intimista e incandescente
+
+Cantos de origem, de inspiração e de afirmação das identidades e potências da negritude por novas manhãs.
