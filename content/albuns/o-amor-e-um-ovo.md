@@ -17,7 +17,7 @@ produtor: ""
 engenheiro: ""
 estudio: ""
 ano_gravacao: "2018"
-musicos: "b64:R3J1cG8gQm90ZXF1aW0gKEJBKSDigJQgY2FpeGEgcmVjb3JyZW50ZSBkZSByb2RhIGRlIHNhbWJhIGjDoSAyMCBhbm9zIGUgNjRLIHNlZ3VpZG9yZXMsIHR1ZG8gbnVtIExpbmt0cmVlCkdpb3Zhbm5hIE1vcmFlcyAoU1ApIOKAlCBMb2xsYSAyMDI1ICsgUm9jayBpbiBSaW8gMjAyNiBlIG5lbmh1bSBzaXRlOiBvIGFyZ3VtZW50byBkZSB2ZW5kYSBzZSBlc2NyZXZlIHNvemluaG8="
+musicos:
 isrc: ""
 gravadora: ""
 distribuidora: ""
