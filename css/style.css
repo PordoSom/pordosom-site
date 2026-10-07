@@ -2254,3 +2254,35 @@ section {
     color: var(--brand-accent);
     font-weight: 700;
 }
+
+/* ===== FICHA TÉCNICA — MÚSICOS EM RICH TEXT ===== */
+.album-ficha-rich {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+.album-ficha-rich p { margin: 0.4rem 0; }
+.album-ficha-rich strong { color: var(--text-primary); font-weight: 600; }
+.album-ficha-rich em { font-style: italic; }
+.album-ficha-rich a { color: var(--brand-primary-light); }
+.album-ficha-rich h3 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--brand-accent);
+    margin: 0.9rem 0 0.4rem;
+}
+.album-ficha-rich h2 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-primary);
+    margin: 1rem 0 0.4rem;
+}
+.album-ficha-rich blockquote {
+    border-left: 2px solid var(--brand-primary);
+    padding-left: 0.8rem;
+    margin: 0.6rem 0;
+    font-style: italic;
+    color: var(--text-muted);
+}

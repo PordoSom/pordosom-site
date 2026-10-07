@@ -396,31 +396,36 @@ def page_album(a, prev, next_):
                                   ('Engenheiro de som', a.get('engenheiro')),
                                   ('Estúdio', a.get('estudio')),
                                   ('Ano de gravação', a.get('ano_gravacao'))] if v]
-    if _prod: _grupos.append(('Produção', _prod))
+    if _prod: _grupos.append(('Produção', 'kv', _prod))
     _musicos_raw = a.get('musicos')
-    _musicos = []
     if _musicos_raw:
         if isinstance(_musicos_raw, list):
-            _musicos = [str(m) for m in _musicos_raw if str(m).strip()]
+            _ml = [str(m) for m in _musicos_raw if str(m).strip()]
+            if _ml: _grupos.append(('Músicos participantes', 'list', _ml))
         else:
-            _musicos = [str(_musicos_raw)]
-    if _musicos: _grupos.append(('Músicos participantes', _musicos))
+            _mt = str(_musicos_raw).strip()
+            if _mt: _grupos.append(('Músicos participantes', 'rich', _mt))
     _cat = [(l, v) for l, v in [('ISRC', a.get('isrc')),
                                  ('Gravadora', a.get('gravadora')),
                                  ('Distribuidora', a.get('distribuidora'))] if v]
-    if _cat: _grupos.append(('Ficha catalográfica', _cat))
+    if _cat: _grupos.append(('Ficha catalográfica', 'kv', _cat))
 
     _ficha_html = ''
-    for _titulo_g, _conteudo_g in _grupos:
-        if _titulo_g == 'Músicos participantes':
-            _linhas = ''.join('<li>' + esc(m) + '</li>' for m in _conteudo_g)
+    for _titulo_g, _tipo, _dados in _grupos:
+        if _tipo == 'rich':
+            _ficha_html += ('<div class="album-ficha-grupo">'
+                            '<div class="album-ficha-grupo-titulo">' + esc(_titulo_g) + '</div>'
+                            '<div class="album-ficha-rich">' + md_html_v2(_dados) + '</div>'
+                            '</div>')
+        elif _tipo == 'list':
+            _linhas = ''.join('<li>' + esc(m) + '</li>' for m in _dados)
             _ficha_html += ('<div class="album-ficha-grupo">'
                             '<div class="album-ficha-grupo-titulo">' + esc(_titulo_g) + '</div>'
                             '<ul class="album-ficha-musicos">' + _linhas + '</ul>'
                             '</div>')
         else:
             _linhas = ''
-            for _lbl, _val in _conteudo_g:
+            for _lbl, _val in _dados:
                 _linhas += ('<div class="album-ficha-linha">'
                             '<div class="album-ficha-label">' + esc(_lbl) + '</div>'
                             '<div class="album-ficha-valor">' + esc(_val) + '</div>'
