@@ -4,7 +4,9 @@ artista: "Tião Carvalho canta João do Vale"
 ano: ""
 capa: "/images/uploads/frevo-da-ilusao.jpg"
 generos:
+  - brasilidades
   - cultura-popular
+  - afro-brasileira
 destaque: true
 faixas: 14
 ordem: "1"
