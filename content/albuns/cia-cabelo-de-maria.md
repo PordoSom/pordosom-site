@@ -2,7 +2,7 @@
 titulo: "Cia Cabelo de Maria"
 artista: "Ping Pong"
 ano: ""
-capa: ""
+capa: "/images/uploads/cia-cabelo-de-maria.jpg"
 generos:
   - infantil
 destaque: false
@@ -12,11 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/1KeGoWVFN6rdPeS9cwEVhw?si=WGayj
 youtube: "https://www.youtube.com/watch?v=MfsickckMOc"
 apple: ""
 deezer: ""
-texto_en: "Cia Cabello de Maria was founded in 2007 by Renata Mattar and Gustavo Finkler, with the aim of bringing the richness of Brazilian popular culture to adults and children.
-Arrasta-pé, coco, xote, baião, folklore and marchinhas form the variety of rhythms in a repertoire full of fun, which makes children and adults participate singing and playing.
-After the beautiful albums São João do Carneirinho, Baianá, Parece Cinema, Poin - Small Interactive Orchestra, Cantos de Trabalho, they present Ping Pong.
-
-In Ping Pong, mixing various rhythms and styles of regional music (so characteristic of his other works) with fantastic realism, Brazilian folklore and humor, Ping Pong works with diversity in several ways. The songs speak of characters who are “different”, a centipede that has a leg shorter than the others, a girl who knows how to create winds, a boy who only finds satisfaction in playing chess, the Curupira protector of forests, among others, who promote children's joy and fantasy."
+texto_en: "\"Cia Cabello de Maria was founded in 2007 by Renata Mattar and Gustavo Finkler, with the aim of bringing the richness of Brazilian popular culture to adults and children."
 produtor: ""
 engenheiro: ""
 estudio: ""
