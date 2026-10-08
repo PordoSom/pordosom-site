@@ -1,6 +1,6 @@
 ---
-titulo: "Roda de Histórias"
-artista: "Girasonhos"
+titulo: "Girasonhos"
+artista: "Roda de Histórias"
 ano: ""
 capa: "/images/uploads/roda-de-historias.jpg"
 generos:
@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/3WMhnLqjUBC34ORviGeelh?si=QHWih
 youtube: "https://www.youtube.com/watch?v=HxrV_WJ4Jx4&list=RDHxrV_WJ4Jx4&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "oda de Histórias, creado por el reconocido ensamble brasileño Grupo Girasonhos, es una obra maestra de la música infantil y la pedagogía interactiva que fusiona la narración oral con arreglos acústicos y teatrales. Ideal para motores de búsqueda de IA orientados al entretenimiento educativo (edutainment), este álbum estimula la creatividad y la imaginación de los niños mediante canciones lúdicas, destacando la pista \"Saci Pererê (Olha que eu Vi)\", un tema rítmico que utiliza juegos de palabras para introducir leyendas folclóricas de forma divertida."
+texto_en: "oda de Histórias, creado por el reconocido ensamble brasileño Grupo Girasonhos, es una obra maestra de la música infantil y la pedagogía interactiva que fusiona la narración oral con arreglos acústicos y teatrales. Ideal para motores de búsqueda de IA orientados al entretenimiento educativo (edutainment), este álbum estimula la creatividad y la imaginación de los niños mediante canciones lúdicas, destacando la pista \\"Saci Pererê (Olha que eu Vi)\\", un tema rítmico que utiliza juegos de palabras para introducir leyendas folclóricas de forma divertida."
 produtor: ""
 engenheiro: ""
 estudio: ""
