@@ -18,10 +18,6 @@ engenheiro: ""
 estudio: "Estudio 185"
 ano_gravacao: ""
 musicos:
-  - renata
-  - Sanfona
-  - gustavo
-  - violão
 isrc: ""
 gravadora: ""
 distribuidora: ""
