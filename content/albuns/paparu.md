@@ -4,7 +4,9 @@ artista: "Por Mim e Pelo Meu Povo"
 ano: ""
 capa: "/images/uploads/paparu.jpg"
 generos:
+  - brasilidades
   - cultura-popular
+  - afro-brasileira
 destaque: false
 faixas: 14
 ordem: ""
