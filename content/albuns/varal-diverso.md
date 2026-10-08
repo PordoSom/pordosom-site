@@ -1,7 +1,7 @@
 ---
-titulo: "Varal Diverso"
-artista: "Marco Vilane"
-ano: 2012
+titulo: "Marco Vilane"
+artista: "Varal Diverso"
+ano: ""
 capa: "/images/uploads/varal-diverso.jpg"
 generos:
   - mpb
