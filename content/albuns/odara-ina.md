@@ -1,7 +1,7 @@
 ---
-titulo: "Odara Inã"
-artista: "Aloysio Letra"
-ano: 2024
+titulo: "Aloysio Letra"
+artista: "Odara Inã"
+ano: ""
 capa: "/images/uploads/odara-ina.jpg"
 generos:
   - cultura-popular
@@ -13,7 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/album/2wHdrdDXxfGVeT2S3tWIwx?si=69g24
 youtube: "https://www.youtube.com/watch?v=61aqk2Wq9F4"
 apple: ""
 deezer: ""
-texto_en: "\\\"Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone."
+texto_en: "\\\\"Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone."
 produtor: ""
 engenheiro: ""
 estudio: ""
