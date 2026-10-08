@@ -1,7 +1,7 @@
 ---
 titulo: "Cia Cabelo de Maria"
 artista: "São João do Carneirinho"
-ano: 2009
+ano: ""
 capa: "/images/uploads/cia-cabelo-de-maria-sao-joao-do-carneirinho.jpg"
 generos:
   - infantil
