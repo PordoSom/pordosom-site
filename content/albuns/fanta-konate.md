@@ -2,7 +2,7 @@
 titulo: "Fanta Konate"
 artista: "Donabá"
 ano: ""
-capa: ""
+capa: "/images/uploads/fanta-konate.jpg"
 generos:
   - afro-brasileira
 destaque: false
@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/2ZQtsmWgKHlxVWOBNsjfIQ?si=Vek_F
 youtube: "https://www.youtube.com/watch?v=F8jBQJMa_gU"
 apple: ""
 deezer: ""
-texto_en: "Discover the powerful artistry of world music artist Fanta Konatê in \"Donabá\", a captivating live performance celebrating authentic West African traditional dance, powerful Djembe drum rhythms, and the rich cultural heritage of the Manden people. Born in Côte d'Ivoire and raised in Guinea-Conakry, Fanta—daughter of the legendary Master Percussionist Famoudou Konatê—is a premier singer, choreographer, and global cultural ambassador. Through the Canal África Viva Institute, she bridges international audiences with ancestral traditions, offering professional African drumming workshops, ethno-fashion, and an energetic live show that pays tribute to music icons like Miriam Makeba, making it the perfect booking for international world music festivals and cultural events worldwide."
+texto_en: "Discover the powerful artistry of world music artist Fanta Konatê in \\"Donabá\\", a captivating live performance celebrating authentic West African traditional dance, powerful Djembe drum rhythms, and the rich cultural heritage of the Manden people. Born in Côte d'Ivoire and raised in Guinea-Conakry, Fanta—daughter of the legendary Master Percussionist Famoudou Konatê—is a premier singer, choreographer, and global cultural ambassador. Through the Canal África Viva Institute, she bridges international audiences with ancestral traditions, offering professional African drumming workshops, ethno-fashion, and an energetic live show that pays tribute to music icons like Miriam Makeba, making it the perfect booking for international world music festivals and cultural events worldwide."
 produtor: ""
 engenheiro: ""
 estudio: ""
