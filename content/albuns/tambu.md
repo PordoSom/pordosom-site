@@ -1,7 +1,7 @@
 ---
-titulo: "Tambú"
-artista: "Luana Bayô"
-ano: 2022
+titulo: "Luana Bayô"
+artista: "Tambú"
+ano: ""
 capa: "/images/uploads/tambu.jpg"
 generos:
   - cultura-popular
@@ -13,44 +13,12 @@ spotify: "https://open.spotify.com/artist/5OgreO0prRIhQRP3A4S7rm"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "\\\"\\\\"\\\\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\\\\"Tambú,\\\\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments."
+texto_en: "\\\\"\\\\\"\\\\\\"Luana Bayô is a São Paulo-born singer, songwriter, and educator. Her work is deeply rooted in the powerful sounds of African diaspora music. In her project \\\\\\\"Tambú,\\\\\\\" she invites listeners into an experience of original songs and reimagined classics centered on spirituality, magic, spells, and enchantments."
 produtor: ""
 engenheiro: ""
 estudio: ""
 ano_gravacao: ""
-musicos:
-  - Músicos:  Luana Bayô – Voz
-  - Thayná Oliveira – Violoncello
-  - Giovanni Diganzá – Violão/ Viola
-  - Mayara Almeida – Sax/ Flauta
-  - Transversal
-  - Cauê Silva – Percussão Geral
-  - Xeina Barros – Percussão
-  - Geral
-  - Ficha Técnica do show: Concepção: Luana Bayô
-  - Direção Artística: Martinha Soares
-  - Complementação de cenário: Martinha Soares
-  - Produção: Ligia Fernandes
-  - Arranjos: Giovanni Diganzá
-  - Maquiagem: Jhonny Bodonni
-  - Figurino: Mônica Anjos
-  - Cabelo: Josyas BarberShop
-  - Acessórios: Ojirê Ventura
-  - Ficha técnica
-  - Equipe Pôr do Som e Estúdio 185
-  - Realização: PÔR DO SOM
-  - Produção Executiva: SÉRGIO MENDONÇA
-  - Direção de Produção: LEONARDO ESCOBAR
-  - Entrevistas: BENTO ANDREATO
-  - Assistente de Produção: JOSÉ MARCOS PIRES BUENO
-  - Direção Artística: SÉRGIO MENDONÇA
-  - Projeto gráfico e Comunicação: PATRICK KARASSAWA
-  - Direção Audiovisual: BETO MENDONÇA
-  - Gravação: ESTÚDIO 185 APODI
-  - Técnico de Som: GUSTAVO DO VALE
-  - Câmera e Edição ao vivo: BRUNO MARQUES
-  - Câmera e assistência: GABI OLIVEIRA E LUZIA BARROS
-  - Finalização: BETO MENDONÇA E JEANNINE GENTILE
+musicos: "b64:TcO6c2ljb3M6ICBMdWFuYSBCYXnDtCDigJMgVm96ClRoYXluw6EgT2xpdmVpcmEg4oCTIFZpb2xvbmNlbGxvCkdpb3Zhbm5pIERpZ2FuesOhIOKAkyBWaW9sw6NvLyBWaW9sYQpNYXlhcmEgQWxtZWlkYSDigJMgU2F4LyBGbGF1dGEKVHJhbnN2ZXJzYWwKQ2F1w6ogU2lsdmEg4oCTIFBlcmN1c3PDo28gR2VyYWwKWGVpbmEgQmFycm9zIOKAkyBQZXJjdXNzw6NvCkdlcmFsCkZpY2hhIFTDqWNuaWNhIGRvIHNob3c6IENvbmNlcMOnw6NvOiBMdWFuYSBCYXnDtApEaXJlw6fDo28gQXJ0w61zdGljYTogTWFydGluaGEgU29hcmVzCkNvbXBsZW1lbnRhw6fDo28gZGUgY2Vuw6FyaW86IE1hcnRpbmhhIFNvYXJlcwpQcm9kdcOnw6NvOiBMaWdpYSBGZXJuYW5kZXMKQXJyYW5qb3M6IEdpb3Zhbm5pIERpZ2FuesOhCk1hcXVpYWdlbTogSmhvbm55IEJvZG9ubmkKRmlndXJpbm86IE3DtG5pY2EgQW5qb3MKQ2FiZWxvOiBKb3N5YXMgQmFyYmVyU2hvcApBY2Vzc8OzcmlvczogT2ppcsOqIFZlbnR1cmEKRmljaGEgdMOpY25pY2EKRXF1aXBlIFDDtHIgZG8gU29tIGUgRXN0w7pkaW8gMTg1ClJlYWxpemHDp8OjbzogUMOUUiBETyBTT00KUHJvZHXDp8OjbyBFeGVjdXRpdmE6IFPDiVJHSU8gTUVORE9Ow4dBCkRpcmXDp8OjbyBkZSBQcm9kdcOnw6NvOiBMRU9OQVJETyBFU0NPQkFSCkVudHJldmlzdGFzOiBCRU5UTyBBTkRSRUFUTwpBc3Npc3RlbnRlIGRlIFByb2R1w6fDo286IEpPU8OJIE1BUkNPUyBQSVJFUyBCVUVOTwpEaXJlw6fDo28gQXJ0w61zdGljYTogU8OJUkdJTyBNRU5ET07Dh0EKUHJvamV0byBncsOhZmljbyBlIENvbXVuaWNhw6fDo286IFBBVFJJQ0sgS0FSQVNTQVdBCkRpcmXDp8OjbyBBdWRpb3Zpc3VhbDogQkVUTyBNRU5ET07Dh0EKR3JhdmHDp8OjbzogRVNUw5pESU8gMTg1IEFQT0RJClTDqWNuaWNvIGRlIFNvbTogR1VTVEFWTyBETyBWQUxFCkPDom1lcmEgZSBFZGnDp8OjbyBhbyB2aXZvOiBCUlVOTyBNQVJRVUVTCkPDom1lcmEgZSBhc3Npc3TDqm5jaWE6IEdBQkkgT0xJVkVJUkEgRSBMVVpJQSBCQVJST1MKRmluYWxpemHDp8OjbzogQkVUTyBNRU5ET07Dh0EgRSBKRUFOTklORSBHRU5USUxF"
 isrc: ""
 gravadora: ""
 distribuidora: ""
