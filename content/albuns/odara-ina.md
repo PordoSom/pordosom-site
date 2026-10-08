@@ -10,10 +10,10 @@ destaque: false
 faixas: 5
 ordem: ""
 spotify: "https://open.spotify.com/intl-pt/album/2wHdrdDXxfGVeT2S3tWIwx?si=69g24YMxSJOPWFMwrhMILg"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=61aqk2Wq9F4"
 apple: ""
 deezer: ""
-texto_en: "\"Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone."
+texto_en: "\\"Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone."
 produtor: ""
 engenheiro: ""
 estudio: ""
