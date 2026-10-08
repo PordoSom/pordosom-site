@@ -9,14 +9,11 @@ generos:
 destaque: false
 faixas: 5
 ordem: ""
-spotify: "https://open.spotify.com/track/1lAQfwQ3DwYhRn9ScUGL1T"
+spotify: "https://open.spotify.com/intl-pt/album/2wHdrdDXxfGVeT2S3tWIwx?si=69g24YMxSJOPWFMwrhMILg"
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone.
-Born from the local sarau movement, he crafts singular songs and sensitive interpretations of Afro-Brazilian and Afro-Indigenous ancestralities, delivering a rhythmic, seasoned style of MPB.
-Aloysio invites us on an emotional journey that dialogues with the rich heritage of 1980s and 2000s MPB. He blends the black traditions of Candomblé, pop elements, and the refined instrumentation of a chamber orchestra into an intimate and incandescent performance.
-Songs of origin, inspiration, and affirmation of Black identities and powers, rising toward a new dawn"
+texto_en: "\"Aloysio Letra is a singer and songwriter from the outskirts of São Paulo's East Zone."
 produtor: ""
 engenheiro: ""
 estudio: ""
