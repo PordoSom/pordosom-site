@@ -1,7 +1,7 @@
 ---
-titulo: "Por Mim e Pelo Meu Povo"
-artista: "Ana Maria Carvalho"
-ano: 2012
+titulo: "Ana Maria Carvalho"
+artista: "Por Mim e Pelo Meu Povo"
+ano: ""
 capa: "/images/uploads/paparu.jpg"
 generos:
   - cultura-popular
