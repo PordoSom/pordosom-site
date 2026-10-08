@@ -5,6 +5,7 @@ ano: ""
 capa: "/images/uploads/varal-diverso.jpg"
 generos:
   - mpb
+  - brasilidades
 destaque: true
 faixas: 1
 ordem: ""
