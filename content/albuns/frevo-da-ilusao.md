@@ -1,7 +1,7 @@
 ---
-titulo: "Tião Carvalho Canta João do Vale"
-artista: "Tião Carvalho"
-ano: 2006
+titulo: "Tião Carvalho"
+artista: "Tião Carvalho canta João do Vale"
+ano: ""
 capa: "/images/uploads/frevo-da-ilusao.jpg"
 generos:
   - cultura-popular
@@ -17,9 +17,7 @@ produtor: ""
 engenheiro: ""
 estudio: "Estudio 185 Apodi"
 ano_gravacao: ""
-musicos:
-  - Tião Carvalho (Voz e Percussão)
-  - Zeca Baleiro (voz)
+musicos: "b64:VGnDo28gQ2FydmFsaG8gKFZveiBlIFBlcmN1c3PDo28pClplY2EgQmFsZWlybyAodm96KQ=="
 isrc: ""
 gravadora: "Pôr do Som"
 distribuidora: ""
