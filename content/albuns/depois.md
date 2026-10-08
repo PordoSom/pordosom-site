@@ -1,7 +1,7 @@
 ---
-titulo: "Depois"
-artista: "Aloysio Letra"
-ano: 2023
+titulo: "Aloysio Letra"
+artista: "Depois"
+ano: ""
 capa: "/images/uploads/depois.jpg"
 generos:
   - afro-brasileira
