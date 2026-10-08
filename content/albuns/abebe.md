@@ -1,7 +1,7 @@
 ---
-titulo: "Abebe"
-artista: "Luana Bayo"
-ano: 2024
+titulo: "Luana Bayo"
+artista: "Abebé"
+ano: ""
 capa: "/images/uploads/abebe.jpg"
 generos:
   - brasilidades
