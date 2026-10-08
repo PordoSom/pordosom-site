@@ -1,7 +1,7 @@
 ---
 titulo: "O Amor É Um Ovo"
 artista: "Marco Vilane"
-ano: 2025
+ano: ""
 capa: "/images/uploads/o-amor-e-um-ovo.jpg"
 generos:
   - brasilidades
@@ -16,7 +16,7 @@ texto_en: ""
 produtor: ""
 engenheiro: ""
 estudio: ""
-ano_gravacao: "2018"
+ano_gravacao: ""
 musicos:
 isrc: ""
 gravadora: ""
