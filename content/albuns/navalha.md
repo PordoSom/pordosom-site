@@ -1,7 +1,7 @@
 ---
-titulo: "Navalha"
-artista: "Jonathan Silva"
-ano: 2022
+titulo: "Jonathan Silva"
+artista: "Navalha"
+ano: ""
 capa: "/images/uploads/navalha.jpg"
 generos:
   - mpb
@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/0mabPGOpUwmsq4XEFaFqs3?si=ZJgMK
 youtube: "https://www.youtube.com/watch?v=Kvk4-ykWP3c"
 apple: ""
 deezer: "https://www.deezer.com/br/album/669396531"
-texto_en: "Sharp in title, precise in execution. \\\"Navalha\\\" shows songwriter Jonathan Silva honing word and chord: a keen-eyed song about the world, no fat, every verse where it belongs. Proof that Por do Som bets on authors — not formulas."
+texto_en: "Sharp in title, precise in execution. \\\\"Navalha\\\\" shows songwriter Jonathan Silva honing word and chord: a keen-eyed song about the world, no fat, every verse where it belongs. Proof that Por do Som bets on authors — not formulas."
 produtor: ""
 engenheiro: ""
 estudio: ""
