@@ -23,4 +23,4 @@ gravadora: ""
 distribuidora: ""
 ---
 
- 
+ Toinho Melodia (1942–2021) foi um dos grandes nomes do samba de São Paulo, com história marcante na Vai-Vai, Samba da Vela e Unidos do Morro de Vila Maria, onde conviveu com lendas como Toniquinho Batuqueiro. Em “Malemolência”, uma de suas últimas gravações ao lado de grandes músicos, ele homenageia a Vila Maria dos anos 70. O samba resgata com nostalgia a batucada de outrora: sem correria, cadenciada e cheia de malandragem.
