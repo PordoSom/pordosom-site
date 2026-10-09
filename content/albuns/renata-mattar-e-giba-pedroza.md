@@ -2,7 +2,7 @@
 titulo: "Renata Mattar e Giba Pedroza"
 artista: "Contos de Todos os Cantos"
 ano: ""
-capa: ""
+capa: "/images/uploads/renata-mattar-e-giba-pedroza.jpg"
 generos:
   - infantil
 destaque: false
