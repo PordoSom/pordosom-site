@@ -2,7 +2,7 @@
 titulo: "Toinho Melodia"
 artista: "Malemolência"
 ano: ""
-capa: ""
+capa: "/images/uploads/toinho-melodia.jpg"
 generos:
   - samba-de-raiz
 destaque: false
