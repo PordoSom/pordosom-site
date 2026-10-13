@@ -4,6 +4,9 @@ artista: "Felicidade Guerreira"
 ano: ""
 capa: "/images/uploads/a-quatro-vozes.jpg"
 generos:
+  - mpb
+  - brasilidades
+  - afro-brasileira
 destaque: false
 faixas: 12
 ordem: ""
