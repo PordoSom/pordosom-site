@@ -1,6 +1,6 @@
 ---
 titulo: "Marco Vilane"
-artista: "O Amor É Um Ovo"
+artista: "O Amor É Um Ovo (Single)"
 ano: ""
 capa: "/images/uploads/o-amor-e-um-ovo.jpg"
 generos:
