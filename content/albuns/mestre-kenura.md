@@ -13,8 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/album/3birV9Fqgob9yiPaz2cQ8u?si=gxw5K
 youtube: "https://www.youtube.com/watch?v=dUtt89qWSg0&list=RDdUtt89qWSg0&start_radio=1&t=20s"
 apple: ""
 deezer: "https://link.deezer.com/s/34FODAhsYpxoEE2RRFels"
-texto_en: "The album \"Capoeira Água de Menino\" showcases the unique style created and developed by Mestre Kenura. This work brings together the fundamentals of both Capoeira Angola and Capoeira Regional in one place, reflecting the musical identity the master built throughout his journey.
-Rooted in traditional Afro-Brazilian culture, the album goes beyond standard rodas, incorporating other folk manifestations closely tied to this heritage, such as samba de roda, maculelê, and frevo. The repertoire focuses on root capoeira (capoeira raiz), featuring traditional rhythms and classic ladainhas recorded alongside his group."
+texto_en: "Deeply rooted in traditional Afro-Brazilian culture, \"Capoeira Água de Menino\" showcases the unique root capoeira style developed by Mestre Kenura. Recorded alongside his group, this work brings together the fundamentals of Capoeira Angola and Capoeira Regional, while incorporating essential folk traditions like samba de roda, maculelê, and frevo."
 produtor: ""
 engenheiro: ""
 estudio: ""
