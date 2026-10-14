@@ -1,5 +1,5 @@
 ---
-titulo: "Festival Malungo destaca raízes africanas da música popular brasileira"
+titulo: "Festival Malungo 1ª edição, destaca raízes africanas da música popular brasileira"
 status: "realizado"
 badge: "Festival Cultural"
 ano: 2021
