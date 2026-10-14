@@ -5,6 +5,7 @@ ano: ""
 capa: "/images/uploads/quando-dorme-alcantara.jpg"
 generos:
   - cultura-popular
+  - afro-brasileira
 destaque: false
 faixas: 1
 ordem: ""
