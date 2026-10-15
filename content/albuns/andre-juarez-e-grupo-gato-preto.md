@@ -4,6 +4,7 @@ artista: "Gato Preto"
 ano: ""
 capa: "/images/uploads/andre-juarez-e-grupo-gato-preto.jpg"
 generos:
+  - instrumental
 destaque: false
 faixas: 13
 ordem: ""
