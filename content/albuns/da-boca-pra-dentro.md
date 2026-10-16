@@ -9,12 +9,10 @@ destaque: false
 faixas: 10
 ordem: ""
 spotify: "https://open.spotify.com/intl-pt/album/6JUchQjVg50Fjfkw2Nj2xg?si=cbvRN5POT6eM8P0wPeTIkg"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=TjV9u2JvbCk"
 apple: ""
 deezer: ""
-texto_en: "Marco Vilane is a singer, songwriter, musician and poet, born in Bahia. With contemporary clothing and pinches, having the song as the most important element, Vilane is part of the new generation of Brazilian music poetry, always bringing modernity and using a rescue of the tradition of Brazilian popular music.
-
-“Da Boca pra Dentro”, contour with special appearances by Zélia Duncan, Mestrinho and Kleber Albuquerque. The current discord, with hints of re-encounter with the northeastern poetry of the classic, that of the past, of the boy's times. It is the clothesline that shelters his sleepiness and his transit."
+texto_en: "\"Marco Vilane is a singer, songwriter, musician and poet, born in Bahia. With contemporary clothing and pinches, having the song as the most important element, Vilane is part of the new generation of Brazilian music poetry, always bringing modernity and using a rescue of the tradition of Brazilian popular music."
 produtor: ""
 engenheiro: ""
 estudio: ""
