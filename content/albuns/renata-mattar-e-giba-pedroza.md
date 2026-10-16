@@ -1,5 +1,5 @@
 ---
-titulo: "Renata Mattar e Giba Pedroza"
+titulo: "Giba Pedroza e Renata Mattar"
 artista: "Contos de Todos os Cantos"
 ano: ""
 capa: "/images/uploads/renata-mattar-e-giba-pedroza.jpg"
