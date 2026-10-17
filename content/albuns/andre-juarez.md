@@ -4,11 +4,12 @@ artista: "Canja"
 ano: ""
 capa: "/images/uploads/andre-juarez.jpg"
 generos:
+  - instrumental
 destaque: false
 faixas: 10
 ordem: ""
 spotify: "https://open.spotify.com/intl-pt/album/0Ua0WQoYBo58TBg4ei9DSM?si=QfsfHNhIScGdTuUXI_boxw"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=DIguIMQ-TWQ"
 apple: ""
 deezer: ""
 texto_en: "Renowned vibraphone virtuoso, conductor, and arranger André Juarez delivers a masterful instrumental experience in Canja. Inspired by a vibrant fusion of MPB, latin jazz, and salsa, the album features legendary guest appearances from Brazilian masters like Jair Rodrigues and Osvaldinho do Acordeom, showcasing the best of contemporary vibraphone and marimba sounds."
