@@ -10,7 +10,7 @@ destaque: false
 faixas: 1
 ordem: ""
 spotify: "https://open.spotify.com/intl-pt/artist/2wFdMI4XhoSczBqkoLmzrz?si=FaFISUPPTEGl8G_2lnBAgw"
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=QnR6unBdHK4"
 apple: ""
 deezer: ""
 texto_en: "Tião Carvalho, a renowned singer, songwriter, and cultural researcher from Maranhão, Brazil, is a master of Afro-Brazilian heritage and traditional folklore like Bumba Meu Boi. His acclaimed 2004 solo album, Quando Dorme Alcântara, perfectly balances regional rhythms with contemporary poetry"
