@@ -5,6 +5,7 @@ ano: ""
 capa: "/images/uploads/da-boca-pra-dentro.jpg"
 generos:
   - mpb
+  - brasilidades
 destaque: false
 faixas: 10
 ordem: ""
@@ -12,7 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/album/6JUchQjVg50Fjfkw2Nj2xg?si=cbvRN
 youtube: "https://www.youtube.com/watch?v=TjV9u2JvbCk"
 apple: ""
 deezer: ""
-texto_en: "\"Marco Vilane is a singer, songwriter, musician and poet, born in Bahia. With contemporary clothing and pinches, having the song as the most important element, Vilane is part of the new generation of Brazilian music poetry, always bringing modernity and using a rescue of the tradition of Brazilian popular music."
+texto_en: "\\"Marco Vilane is a singer, songwriter, musician and poet, born in Bahia. With contemporary clothing and pinches, having the song as the most important element, Vilane is part of the new generation of Brazilian music poetry, always bringing modernity and using a rescue of the tradition of Brazilian popular music."
 produtor: ""
 engenheiro: ""
 estudio: ""
