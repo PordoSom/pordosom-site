@@ -4,6 +4,8 @@ artista: "Antídoto"
 ano: ""
 capa: "/images/uploads/emerson-boy.jpg"
 generos:
+  - mpb
+  - brasilidades
 destaque: false
 faixas: 10
 ordem: ""
@@ -11,7 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/album/6GGuBf1evMad4T0yKAR0U4?si=KhfdV
 youtube: "https://www.youtube.com/watch?v=ud5yBiEpNrk&list=RDud5yBiEpNrk&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "Multi-instrumentalist and songwriter Emerson Boy, leader of the carnival brass band Jegue Elétrico, presents his first solo album, titled \"Antídoto\". The album explores the rich diversity of Brazilian music and features special guest appearances by Edvaldo Santana, Grupo Dona Zica, and Lirinha and Clayton (from Cordel do Fogo Encantado)."
+texto_en: "Multi-instrumentalist and songwriter Emerson Boy, leader of the carnival brass band Jegue Elétrico, presents his first solo album, titled \\"Antídoto\\". The album explores the rich diversity of Brazilian music and features special guest appearances by Edvaldo Santana, Grupo Dona Zica, and Lirinha and Clayton (from Cordel do Fogo Encantado)."
 produtor: ""
 engenheiro: ""
 estudio: ""
