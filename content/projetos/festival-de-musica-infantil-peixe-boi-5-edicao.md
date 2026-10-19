@@ -5,7 +5,7 @@ badge: "Festival de Música Infantil"
 ano: 2024
 ordem: ""
 imagem: "/images/uploads/projeto-festival-de-musica-infantil-peixe-boi-5-edicao.jpg"
-link: ""
+link: "https://www.youtube.com/culturainfantil"
 relatorio: ""
 tags:
 ---
