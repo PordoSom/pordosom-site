@@ -4,14 +4,15 @@ artista: "Vintage"
 ano: ""
 capa: "/images/uploads/andre-juarez-e-le-petit-comite.jpg"
 generos:
+  - instrumental
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/6SGjZprysLwr21VhefqCsQ?si=MPvH6eqLQAKDZy84TsaU-g"
+youtube: "https://www.youtube.com/watch?v=RiTFyC-aIOA&t=7s"
 apple: ""
 deezer: ""
-texto_en: "In the album \"Vintage\", vibraphonist André Juarez and his ensemble Le Petit Comité deliver a refined, high-energy sound where the vibraphone takes center stage. Originally formed in Boston, the group blends infectious swing with an eclectic mix of genres, seamlessly weaving MPB, Funk, Acid Jazz, and Progressive Rock around the unique textures of the vibes. This debut record beautifully balances original compositions with striking instrumental reimagining of Brazilian music icons like Milton Nascimento, Secos & Molhados, and Novos Baianos, making it a standout release for fans of jazz, fusion, and contemporary mallet percussion worldwide."
+texto_en: "In the album \\"Vintage\\", vibraphonist André Juarez and his ensemble Le Petit Comité deliver a refined, high-energy sound where the vibraphone takes center stage. Originally formed in Boston, the group blends infectious swing with an eclectic mix of genres, seamlessly weaving MPB, Funk, Acid Jazz, and Progressive Rock around the unique textures of the vibes. This debut record beautifully balances original compositions with striking instrumental reimagining of Brazilian music icons like Milton Nascimento, Secos & Molhados, and Novos Baianos, making it a standout release for fans of jazz, fusion, and contemporary mallet percussion worldwide."
 produtor: ""
 engenheiro: ""
 estudio: ""
