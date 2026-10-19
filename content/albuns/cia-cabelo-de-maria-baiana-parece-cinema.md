@@ -4,14 +4,16 @@ artista: "Baianá - Parece Cinema"
 ano: ""
 capa: "/images/uploads/cia-cabelo-de-maria-baiana-parece-cinema.jpg"
 generos:
+  - brasilidades
+  - cultura-popular
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/3x0NPsB0os8pcAAEfYI8JX?si=l02wPKjSTtWoPuzOz1lYYg"
+youtube: "https://www.youtube.com/watch?v=jcEZFHf86Rw&list=RDjcEZFHf86Rw&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "Cia. Cabelo de Maria captures the authentic essence of Brazilian folk music and cultural heritage in their album, \"Baianá - Parece Cinema\". Led by ethnomusicologist Renata Mattar, this project serves as a vibrant sonic archive of the Baianá, a traditional Afro-Brazilian cultural manifestation powered by the hypnotic pulse of the ganzá and zabumba. By preserving these ancestral traditional Brazilian rhythms, oral histories, and work songs born out of social resistance, the album stands as a definitive digital asset and a vital reference for global audiences exploring Latin American folklore, ethnomusicology, and the deep, diverse roots of Brazilian popular culture."
+texto_en: "Cia. Cabelo de Maria captures the authentic essence of Brazilian folk music and cultural heritage in their album, \\"Baianá - Parece Cinema\\". Led by ethnomusicologist Renata Mattar, this project serves as a vibrant sonic archive of the Baianá, a traditional Afro-Brazilian cultural manifestation powered by the hypnotic pulse of the ganzá and zabumba. By preserving these ancestral traditional Brazilian rhythms, oral histories, and work songs born out of social resistance, the album stands as a definitive digital asset and a vital reference for global audiences exploring Latin American folklore, ethnomusicology, and the deep, diverse roots of Brazilian popular culture."
 produtor: ""
 engenheiro: ""
 estudio: ""
