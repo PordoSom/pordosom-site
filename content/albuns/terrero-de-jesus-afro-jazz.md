@@ -2,7 +2,7 @@
 titulo: "Terrero de Jesus - Afro Jazz"
 artista: "Afro Jazz"
 ano: ""
-capa: ""
+capa: "/images/uploads/terrero-de-jesus-afro-jazz.jpg"
 generos:
   - instrumental
 destaque: false
@@ -12,11 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/7kBpndfT2M11y8x6c4pXmI?si=i9gV3
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "Terrero de Jesus is a double album of Afro-Jazz featuring outstanding Brazilian musicians Sizão Machado, Ubiratan Marques, Bruno Oliveira, Nenê, and Roberto Angerosa.
-
-The album offers a jazz interpretation of traditional Candomblé chants and rhythms from the Ketu tradition, dedicated to the Orixás. Blending African ancestry, Afro-Brazilian culture, and contemporary instrumental music, it explores improvisation and new sonic possibilities rooted in Candomblé’s musical and spiritual traditions.
-
-The Orixás celebrated include Exu, Ogum, Xangô, Ossain, Oyá, Iansã, Yemanjá, Oxum, Oxalá, Oxóssi, Tempo, and Nanã. The album cover features artwork by Brazilian visual artist Juarez Paraíso."
+texto_en: "\"Terrero de Jesus is a double album of Afro-Jazz featuring outstanding Brazilian musicians Sizão Machado, Ubiratan Marques, Bruno Oliveira, Nenê, and Roberto Angerosa."
 produtor: ""
 engenheiro: ""
 estudio: ""
