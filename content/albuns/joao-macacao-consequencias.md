@@ -1,17 +1,19 @@
 ---
-titulo: "João Macacão Consequências"
+titulo: "João Macacão"
 artista: "Consequências"
 ano: ""
 capa: ""
 generos:
 destaque: false
-faixas: 1
+faixas: 13
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/48bKbUtkYVmqmPcKRpTGcG?si=eHXG-AtbTUKh7NJEgQSoqQ"
+youtube: "https://www.youtube.com/watch?v=NWxmN5cvfNk&list=RDNWxmN5cvfNk&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: ""
+texto_en: "João Macacão (1940–2020) was a leading figure in São Paulo’s Choro, Samba, and Seresta traditions, renowned for his mastery of the seven-string guitar. For over 20 years, he accompanied legendary singer Sílvio Caldas and performed with major Brazilian musicians, including Altamiro Carrilho and Paulo Vanzolini.
+
+Consequências, his second solo album, celebrates the richness of traditional Brazilian music, bringing together classic Choro, Samba, and Seresta. With musical direction by Milton Mori, the album features outstanding musicians from São Paulo."
 produtor: ""
 engenheiro: ""
 estudio: ""
