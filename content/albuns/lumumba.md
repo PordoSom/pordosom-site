@@ -4,11 +4,12 @@ artista: "Axó"
 ano: ""
 capa: "/images/uploads/lumumba.jpg"
 generos:
+  - afro-brasileira
 destaque: false
-faixas: 1
+faixas: 12
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/4mw1Xfz3fPOR0g1i3Lfo3V?si=bbqU008BSb6xKwWIqpobZg"
+youtube: "https://www.youtube.com/watch?v=uC3nh1fzpQM"
 apple: ""
 deezer: ""
 texto_en: "Mestre Lumumba's album Axó celebrates decades of Afro-Brazilian musical research, traditional sacred drumming, and his deep connection with Mestre Didi, blending over fifty years of artistic and cultural influences rooted in Afro-Brazilian heritage and world music."
