@@ -5,7 +5,7 @@ badge: "Festival de Musica Infantil"
 ano: 2020
 ordem: ""
 imagem: "/images/uploads/projeto-festival-de-musica-infantil-peixe-boi-4-edicao.jpg"
-link: ""
+link: "https://www.youtube.com/culturainfantil"
 relatorio: ""
 tags:
 ---
@@ -22,10 +22,11 @@ Artistas:
 - Pequeno Coração Caipira 
 - Grupo Girasonhos
 - Grupo Pé de Vento
-- Paulo Bira e Brasileirinhos- Oficina para educadores: Giba Pedroza – Tecendo Contos 
+- Paulo Bira e Brasileirinhos
+- Oficina para educadores: Giba Pedroza – Tecendo Contos 
 
 https://www.youtube.com/watch?v=J9MpR0RQkqw
 
 https://www.youtube.com/watch?v=nQSks88O8Cw&list=PLMA1ZpAyWiy7x23b__2_pTXJ0Hc0EeT_F&index=20&t=6s
 
-Projeto realizado com o apoio do Governo do Estado de São Paulo, Secretaria de Cultura e Economia Criativa
+Projeto realizado com o apoio do Governo do Estado de São Paulo, Secretaria de Cultura e Economia Criativa, através do Proac
