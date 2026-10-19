@@ -1,0 +1,26 @@
+---
+titulo: "Lumumba"
+artista: "Axó"
+ano: ""
+capa: "/images/uploads/lumumba.jpg"
+generos:
+destaque: false
+faixas: 1
+ordem: ""
+spotify: ""
+youtube: ""
+apple: ""
+deezer: ""
+texto_en: "Mestre Lumumba's album Axó celebrates decades of Afro-Brazilian musical research, traditional sacred drumming, and his deep connection with Mestre Didi, blending over fifty years of artistic and cultural influences rooted in Afro-Brazilian heritage and world music."
+produtor: ""
+engenheiro: ""
+estudio: ""
+ano_gravacao: ""
+musicos:
+isrc: ""
+gravadora: ""
+distribuidora: ""
+---
+
+ Benedito Luiz Amauro, filho de Ogum, adotou o nome Lumumba em homenagem ao libertador do Zaire, Patrice Lumumba. No início da década de 80, lançou "Cafuné", seu primeiro compacto. Nesse período, conheceu Mestre Didi, que abriu sua percepção para o mundo dos ritmos e instrumentos afro-brasileiros.
+Com composições que somam mais de meio século de influências e experiências musicais, o álbum "Axó" alia sua força expressiva a anos de pesquisa na música afro-brasileira, eternizando o som de seus tambores.
