@@ -1,19 +1,18 @@
 ---
-titulo: "Nzinga Capoeira Angola"
+titulo: "Nzinga"
 artista: "Capoeira Angola"
 ano: ""
 capa: "/images/uploads/nzinga-capoeira-angola.jpg"
 generos:
   - afro-brasileira
 destaque: false
-faixas: 1
+faixas: 38
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/4BtGSQwvM9K67Gx9VanBFy?si=x2t9-DxQSd-oC-HszLXy6Q"
+youtube: "https://www.youtube.com/watch?v=8WFLucBcWSQ&list=OLAK5uy_lEywldzp9nN8vjOMBX6iDJJId9RAE-XLM&index=3"
 apple: ""
 deezer: ""
-texto_en: "Grupo Nzinga delivers a traditional repertoire of chula, ladainhas, and corridos essential to Capoeira Angola. Driven by the ritualistic rhythm of the berimbau and drums, the album captures the true foundation and musicality of the capoeira game.
-This recording features vocals by coordinators and contra-mestres Janja, Poloca, and Paulinha, alongside special guests Tião Carvalho and Mestre Cobra Mansa, accompanied by the Orquestra Nzinga de Berimbaus. A definitive album for the global capoeira community, martial arts historians, and world music collectors."
+texto_en: "\"Grupo Nzinga delivers a traditional repertoire of chula, ladainhas, and corridos essential to Capoeira Angola. Driven by the ritualistic rhythm of the berimbau and drums, the album captures the true foundation and musicality of the capoeira game."
 produtor: ""
 engenheiro: ""
 estudio: ""
