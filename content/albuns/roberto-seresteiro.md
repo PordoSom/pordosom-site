@@ -2,7 +2,7 @@
 titulo: "Roberto Seresteiro"
 artista: "Cordiais Saudações"
 ano: ""
-capa: ""
+capa: "/images/uploads/roberto-seresteiro.jpg"
 generos:
 destaque: false
 faixas: 1
@@ -11,7 +11,7 @@ spotify: ""
 youtube: ""
 apple: ""
 deezer: ""
-texto_en: "n the album \"Cordiais Saudações\", Piracicaba-born singer Roberto Seresteiro brings back the true essence and charm of traditional Brazilian popular music. Accompanied by the authentic sound of the Regional Imperial, he breathes fresh, vibrant life into genres that shaped the country's musical identity, such as the valsa, seresta, choro, and samba-de-breque. By reimagining timeless classics from great composers like Noel Rosa, Silvio Caldas, and Orestes Barbosa, the record delivers an affectionate revival of vintage samba and celebrates the eternal richness of Brazil's popular songbook."
+texto_en: "n the album \\"Cordiais Saudações\\", Piracicaba-born singer Roberto Seresteiro brings back the true essence and charm of traditional Brazilian popular music. Accompanied by the authentic sound of the Regional Imperial, he breathes fresh, vibrant life into genres that shaped the country's musical identity, such as the valsa, seresta, choro, and samba-de-breque. By reimagining timeless classics from great composers like Noel Rosa, Silvio Caldas, and Orestes Barbosa, the record delivers an affectionate revival of vintage samba and celebrates the eternal richness of Brazil's popular songbook."
 produtor: ""
 engenheiro: ""
 estudio: ""
