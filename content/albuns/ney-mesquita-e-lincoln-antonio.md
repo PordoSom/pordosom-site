@@ -2,7 +2,7 @@
 titulo: "Ney Mesquita e Lincoln Antônio"
 artista: "Quintal"
 ano: ""
-capa: ""
+capa: "/images/uploads/ney-mesquita-e-lincoln-antonio.jpg"
 generos:
   - instrumental
 destaque: false
