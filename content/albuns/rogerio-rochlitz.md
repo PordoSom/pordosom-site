@@ -2,7 +2,7 @@
 titulo: "Rogério Rochlitz"
 artista: "Cores"
 ano: ""
-capa: ""
+capa: "/images/uploads/rogerio-rochlitz.jpg"
 generos:
   - instrumental
 destaque: false
