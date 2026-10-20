@@ -21,3 +21,7 @@ Uma viagem pela história do samba, com clássicos inesquecíveis, grandes inter
 Discover the richness and diversity of Brazilian samba through a carefully curated selection of samba de raiz (traditional samba), partido-alto, samba de roda, samba de terreiro, and classic Brazilian samba. Featuring legendary artists and composers such as C**artola, Nelson Cavaquinho, Candeia, Paulinho da Viola, João Nogueira, Clementina de Jesus, Dona Ivone Lara, Clara Nunes, Martinho da Vila, Beth Carvalho, Zeca Pagodinho, and Fundo de Quintal**, this playlist celebrates the roots, rhythms, poetry, and traditions of Brazilian music.
 
 From timeless classics to the vibrant spirit of samba circles and Afro-Brazilian cultural traditions, explore the sounds and stories behind one of Brazil’s most important musical expressions. A Por do Som curated playlist for lovers of Brazilian samba, traditional samba, and authentic Brazilian music.
+
+Samba de raíz y partido-alto
+
+Una selección especial de clásicos, grandes maestros y diferentes estilos del samba brasileño. Descubre la riqueza de la música popular de Brasil, desde el samba de raíz hasta el partido-alto
