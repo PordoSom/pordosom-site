@@ -2,7 +2,7 @@
 titulo: "Vésper Vocal"
 artista: "Na Lida"
 ano: ""
-capa: ""
+capa: "/images/uploads/vesper-vocal.jpg"
 generos:
   - mpb
 destaque: false
