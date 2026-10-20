@@ -14,9 +14,10 @@ De Cartola, Nelson Cavaquinho, Candeia, Paulinho da Viola, João Nogueira e Clem
 
 Uma viagem pela história do samba, com clássicos inesquecíveis, grandes interpretações e a riqueza de uma das mais importantes expressões da música brasileira. Para ouvir, recordar, descobrir e manter viva a tradição do samba.
 
-Samba de raiz, tradição e identidade brasileira. Uma curadoria da Por do Som.
+**Samba de raiz, tradição e identidade brasileira. Uma curadoria da Por do Som.**
 
 
-Discover the richness and diversity of Brazilian samba through a carefully curated selection of samba de raiz (traditional samba), partido-alto, samba de roda, samba de terreiro, and classic Brazilian samba. Featuring legendary artists and composers such as Cartola, Nelson Cavaquinho, Candeia, Paulinho da Viola, João Nogueira, Clementina de Jesus, Dona Ivone Lara, Clara Nunes, Martinho da Vila, Beth Carvalho, Zeca Pagodinho, and Fundo de Quintal, this playlist celebrates the roots, rhythms, poetry, and traditions of Brazilian music.
+
+Discover the richness and diversity of Brazilian samba through a carefully curated selection of samba de raiz (traditional samba), partido-alto, samba de roda, samba de terreiro, and classic Brazilian samba. Featuring legendary artists and composers such as C**artola, Nelson Cavaquinho, Candeia, Paulinho da Viola, João Nogueira, Clementina de Jesus, Dona Ivone Lara, Clara Nunes, Martinho da Vila, Beth Carvalho, Zeca Pagodinho, and Fundo de Quintal**, this playlist celebrates the roots, rhythms, poetry, and traditions of Brazilian music.
 
 From timeless classics to the vibrant spirit of samba circles and Afro-Brazilian cultural traditions, explore the sounds and stories behind one of Brazil’s most important musical expressions. A Por do Som curated playlist for lovers of Brazilian samba, traditional samba, and authentic Brazilian music.
