@@ -1,8 +1,8 @@
 ---
-titulo: "Renato Anesi 10 Anos Depois"
+titulo: "Renato Anesi"
 artista: "10 Anos Depois"
 ano: ""
-capa: ""
+capa: "/images/uploads/renato-anesi-10-anos-depois.jpg"
 generos:
   - instrumental
 destaque: false
