@@ -2,10 +2,10 @@
 titulo: "Fanta Konate e Petit Mamady Keita"
 artista: "Djubafedea"
 ano: ""
-capa: ""
+capa: "/images/uploads/fanta-konate-e-petit-mamady-keita.jpg"
 generos:
 destaque: false
-faixas: 1
+faixas: 8
 ordem: ""
 spotify: "https://open.spotify.com/intl-pt/album/4j5KwWWDk2IOT4j9TPossc?si=eVQL8N-PScOsnWhKSMmZUw"
 youtube: "https://www.youtube.com/watch?v=RTCgRsnQD_g"
