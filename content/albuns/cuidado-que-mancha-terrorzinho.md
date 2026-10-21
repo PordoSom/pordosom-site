@@ -1,5 +1,5 @@
 ---
-titulo: "Cuidado que Mancha Terrorzinho"
+titulo: "Cuidado que Mancha"
 artista: "Terrorzinho"
 ano: ""
 capa: "/images/uploads/cuidado-que-mancha-terrorzinho.jpg"
@@ -8,8 +8,8 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/1R7ntfRiH91ZrVokoXKCV6?si=nPSSE4HYQgiPquQWWfCFAg"
+youtube: "https://www.youtube.com/watch?v=kQ8esBbos8E&list=RDkQ8esBbos8E&start_radio=1"
 apple: ""
 deezer: ""
 texto_en: "El álbum infantil Terrorzinho, del grupo Cuidado Que Mancha, utiliza la música y el juego para introducir a los niños en el folclore y la fantasía de forma lúdica. El disco presenta versiones amigables de personajes tradicionales como la Mula sin Cabeza, el Vampirinho Dente de Leite y el Esqueletinho Pé de Valsa, convirtiéndose en una excelente herramienta pedagógica y de desarrollo emocional para padres y educadores."
