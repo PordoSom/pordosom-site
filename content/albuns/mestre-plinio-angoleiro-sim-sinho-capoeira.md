@@ -13,7 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/album/6kAQmWSprYKeBpSEVC4dxa?si=t2m8F
 youtube: "https://www.youtube.com/watch?v=D3Sh2zgruis"
 apple: ""
 deezer: ""
-texto_en: "\"Angoleiro Sim Sinhô by Mestre Plínio is a music album dedicated to Capoeira Angola, an Afro-Brazilian cultural tradition that combines music, singing, rhythm, movement and ancestral knowledge. Founded in São Paulo in 1993 by Mestre Plínio, the Angoleiro Sim Sinhô group is dedicated to preserving and promoting traditional Capoeira Angola in Brazil. The album features renowned capoeira masters Mestre Jogo de Dentro, Mestre Môa do Katendê, Mestre Bigo and Mestre Gaguinho, alongside Mestre Plínio, accompanied by the group's musical ensemble. With traditional capoeira songs and rhythms, the recording celebrates Afro-Brazilian music, oral tradition, cultural heritage and the legacy of the masters who keep Capoeira Angola alive for future generations."
+texto_en: "Angoleiro Sim Sinhô by Mestre Plínio is a music album dedicated to Capoeira Angola, an Afro-Brazilian cultural tradition that combines music, singing, rhythm, movement and ancestral knowledge. Founded in São Paulo in 1993 by Mestre Plínio, the Angoleiro Sim Sinhô group is dedicated to preserving and promoting traditional Capoeira Angola in Brazil. The album features renowned capoeira masters Mestre Jogo de Dentro, Mestre Môa do Katendê, Mestre Bigo and Mestre Gaguinho, alongside Mestre Plínio, accompanied by the group's musical ensemble. With traditional capoeira songs and rhythms, the recording celebrates Afro-Brazilian music, oral tradition, cultural heritage and the legacy of the masters who keep Capoeira Angola alive for future generations."
 produtor: ""
 engenheiro: ""
 estudio: ""
