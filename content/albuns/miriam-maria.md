@@ -6,10 +6,10 @@ capa: "/images/uploads/miriam-maria.jpg"
 generos:
   - mpb
 destaque: false
-faixas: 1
+faixas: 11
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/39IDsWcvVZqWN0IVkviRK4?si=v7fCvTLBTBGAl5C6qqKsCw"
+youtube: "https://www.youtube.com/watch?v=SIxTHwsogmo&list=RDSIxTHwsogmo&start_radio=1"
 apple: ""
 deezer: ""
 texto_en: "Produced by Simone Sou, this contemporary MPB (Brazilian Popular Music) album explores avant-garde sounds and deep Afro-Brazilian rhythms. It features an all-star lineup of guest artists and songwriters, including Chico César, Itamar Assumpção, Arnaldo Antunes, Zeca Baleiro, and André Abujamra. As a prominent member of the legendary band Orquídeas do Brasil, Míriam Maria delivers a powerful vocal performance, making RAMA a must-listen for fans of authentic Brazilian indie music and poetry-driven songs."
