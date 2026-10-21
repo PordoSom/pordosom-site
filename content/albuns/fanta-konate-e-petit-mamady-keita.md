@@ -4,6 +4,7 @@ artista: "Djubafedea"
 ano: ""
 capa: "/images/uploads/fanta-konate-e-petit-mamady-keita.jpg"
 generos:
+  - afro-brasileira
 destaque: false
 faixas: 8
 ordem: ""
