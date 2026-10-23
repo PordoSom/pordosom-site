@@ -2,7 +2,7 @@
 titulo: "Cesinha Pivetta"
 artista: "Nossa Bandeira"
 ano: ""
-capa: ""
+capa: "/images/uploads/cesinha-pivetta.jpg"
 generos:
   - samba-de-raiz
 destaque: false
@@ -12,9 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/2KcCfrRwyVAVgBS5NSmqwE?si=vKZ3J
 youtube: "https://www.youtube.com/watch?v=54WMScSJ0l0&list=RD54WMScSJ0l0&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "Cesinha Pivetta is a Brazilian singer and songwriter from São Paulo, dedicated to traditional samba and Brazilian popular music. His work is rooted in São Paulo’s samba culture and celebrates the composers and masters who have shaped the genre.
-
-Recorded live at Funarte’s Sala Guiomar Novaes in São Paulo, Nossa Bandeira features original samba songs, collaborations and tributes to influential artists, including Waldir 59 and Candeia. With lyrics addressing social issues, freedom and equality, the album celebrates samba de raiz, Brazilian musical heritage and the enduring power of samba as an expression of popular culture."
+texto_en: "\"Cesinha Pivetta is a Brazilian singer and songwriter from São Paulo, dedicated to traditional samba and Brazilian popular music. His work is rooted in São Paulo’s samba culture and celebrates the composers and masters who have shaped the genre."
 produtor: ""
 engenheiro: ""
 estudio: ""
