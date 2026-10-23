@@ -2,7 +2,7 @@
 titulo: "Marco Vilane e Danilo Moraes"
 artista: "O Urubu Está com Raiva do Boi (Single)"
 ano: ""
-capa: ""
+capa: "/images/uploads/marco-vilane-e-danilo-moraes.jpg"
 generos:
   - mpb
   - brasilidades
@@ -13,9 +13,7 @@ spotify: "https://open.spotify.com/intl-pt/track/4sCyhOaEaYxDfL5nnWHULU?si=1e8d8
 youtube: "https://www.youtube.com/watch?v=18STuXz-NsM&list=RD18STuXz-NsM&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "Marco Vilane y Danilo Moraes presentan una nueva versión de O Urubu Está com Raiva do Boi, canción satírica de la música brasileña creada por Chico Anysio y Arnaud Rodrigues y popularizada en los años 70 por Baiano e os Novos Caetanos.
-
-Con influencias del forró, el folk brasileño y la música nordestina, la grabación combina viola, acordeón, guitarra y percusiones orgánicas, renovando este clásico brasileño de humor y crítica social."
+texto_en: "\"Marco Vilane y Danilo Moraes presentan una nueva versión de O Urubu Está com Raiva do Boi, canción satírica de la música brasileña creada por Chico Anysio y Arnaud Rodrigues y popularizada en los años 70 por Baiano e os Novos Caetanos."
 produtor: ""
 engenheiro: ""
 estudio: ""
