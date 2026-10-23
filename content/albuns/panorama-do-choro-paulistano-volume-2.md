@@ -1,6 +1,6 @@
 ---
-titulo: "Panorama do Choro Paulistano Volume 2"
-artista: ""
+titulo: "Panorama do Choro Paulistano Contemporâneo"
+artista: "Volume 2"
 ano: ""
 capa: "/images/uploads/panorama-do-choro-paulistano-volume-2.jpg"
 generos:
@@ -8,13 +8,11 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/3tsuQuYcQKYIkPlHxZ7ZDO?si=VCUO4CL4QL66PRIgOlHWcg"
+youtube: "https://www.youtube.com/watch?v=AlClLu7R2ww&list=RDAlClLu7R2ww&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "This album celebrates the diversity and evolution of Brazilian choro, a traditional instrumental music genre that blends African rhythms and European influences. Created in 2008 by percussionists and researchers Yves Finzetto and Roberta Valente, the project features compositions by leading artists from São Paulo’s contemporary choro scene, including Léa Freire, Arismar do Espírito Santo, André Mehmari, Toninho Carrasqueira, Gian Correa and Henrique Araújo.
-
-Performed by the Sexteto Panorama, Volume 2 documents the richness of contemporary Brazilian choro and instrumental music. The first volume was nominated for the 23rd Brazilian Music Awards in the Special Project Album category."
+texto_en: "\"This album celebrates the diversity and evolution of Brazilian choro, a traditional instrumental music genre that blends African rhythms and European influences. Created in 2008 by percussionists and researchers Yves Finzetto and Roberta Valente, the project features compositions by leading artists from São Paulo’s contemporary choro scene, including Léa Freire, Arismar do Espírito Santo, André Mehmari, Toninho Carrasqueira, Gian Correa and Henrique Araújo."
 produtor: ""
 engenheiro: ""
 estudio: ""
