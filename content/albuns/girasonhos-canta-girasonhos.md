@@ -1,20 +1,18 @@
 ---
-titulo: "Girasonhos Canta Girasonhos"
+titulo: "Girasonhos"
 artista: "Canta Girasonhos"
 ano: ""
 capa: "/images/uploads/girasonhos-canta-girasonhos.jpg"
 generos:
   - infantil
 destaque: false
-faixas: 1
+faixas: 11
 ordem: ""
-spotify: ""
+spotify: "https://open.spotify.com/intl-pt/album/0ho7pDVnB6iPgBtM8qOSc0?si=wj7bBJZjQSSR-AJirHg6pQ"
 youtube: "https://www.youtube.com/watch?v=X8nYzEdGqDM"
 apple: ""
 deezer: ""
-texto_en: "Fundado en 1995, el Grupo Girasonhos combina música infantil, narración de cuentos y poesía, rescatando la tradición oral y estimulando la imaginación y la creatividad de los niños.
-
-El álbum reúne canciones, poesías y piezas musicales creadas para los cuentos y personajes del grupo. Con ritmos como samba, choro, reggae y baião, ofrece música infantil brasileña para niños, familias y educadores, ideal para actividades de educación musical y narración de cuentos."
+texto_en: "\"Fundado en 1995, el Grupo Girasonhos combina música infantil, narración de cuentos y poesía, rescatando la tradición oral y estimulando la imaginación y la creatividad de los niños."
 produtor: ""
 engenheiro: ""
 estudio: ""
