@@ -8,13 +8,11 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/1SavxjOOGpXHzV82gx5whT?si=MaADQldPQnqHqbFQxq2gaw"
+youtube: "https://www.youtube.com/watch?v=H7R-ztaEI9w&list=RDH7R-ztaEI9w&start_radio=1"
 apple: ""
 deezer: ""
-texto_en: "Igor Bueno es compositor, multiinstrumentista, cantante, poeta y educador musical brasileño, integrante del Grupo Cupuaçu, dedicado a la cultura popular afrobrasileña, especialmente de Maranhão. Su trabajo combina poesía y música popular brasileña, inspirado en las tradiciones regionales.
-
-En Recanto dos Mil Sonhos, Igor Bueno presenta canciones inspiradas en la diversidad musical y cultural de Brasil. El álbum recorre ritmos como samba, forró, coco y bumba-meu-boi, uniendo tradición popular brasileña, poesía y una identidad musical propia."
+texto_en: "\"Igor Bueno es compositor, multiinstrumentista, cantante, poeta y educador musical brasileño, integrante del Grupo Cupuaçu, dedicado a la cultura popular afrobrasileña, especialmente de Maranhão. Su trabajo combina poesía y música popular brasileña, inspirado en las tradiciones regionales."
 produtor: ""
 engenheiro: ""
 estudio: ""
