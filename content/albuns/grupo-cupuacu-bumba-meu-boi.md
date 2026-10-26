@@ -1,5 +1,5 @@
 ---
-titulo: "Grupo Cupuaçu bumba meu boi"
+titulo: "Grupo Cupuaçu"
 artista: "Todo Canto Dança"
 ano: ""
 capa: "/images/uploads/grupo-cupuacu-bumba-meu-boi.jpg"
@@ -7,16 +7,13 @@ generos:
   - cultura-popular
   - afro-brasileira
 destaque: false
-faixas: 1
+faixas: 17
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/74vvkocM8tktIEnkpPjvDo?si=q8p09bTQSFaDeLjRYSEVRg"
+youtube: "https://www.youtube.com/watch?v=A_Vn1-yCUPI"
 apple: ""
 deezer: ""
-texto_en: "Founded in 1986 in São Paulo, Brazil, Grupo Cupuaçu preserves and celebrates the traditional music, folk dances, and Afro-Brazilian heritage of Maranhão, northeastern Brazil. Its work highlights cultural traditions such as Bumba Meu Boi, Tambor de Crioula, and Cacuriá.
-
-Traditional Music from Maranhão
-Todo Canto Dança celebrates Maranhão’s folk music and traditional dances, featuring Bumba Meu Boi, Cacuriá, Ciranda, Dança do Caroço, Lelê, and Tambor de Crioula. The album showcases Afro-Brazilian rhythms and the rich diversity of Brazilian folk music."
+texto_en: "\"Founded in 1986 in São Paulo, Brazil, Grupo Cupuaçu preserves and celebrates the traditional music, folk dances, and Afro-Brazilian heritage of Maranhão, northeastern Brazil. Its work highlights cultural traditions such as Bumba Meu Boi, Tambor de Crioula, and Cacuriá."
 produtor: ""
 engenheiro: ""
 estudio: ""
