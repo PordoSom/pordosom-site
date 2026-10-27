@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/4K8KhAg1i8izqNkqksvOLD?si=WphwQ
 youtube: "https://www.youtube.com/results?search_query=izaias+e+seus+choroes"
 apple: ""
 deezer: ""
-texto_en: "Authentic Brazilian choro music by master mandolinist Izaías Bueno de Almeida and his ensemble, Izaías e Seus Chorões—the oldest active choro group in São Paulo. Mentored by Jacob do Bandolim, this instrumental project blends traditional rhythms with waltzes and serestas, highlighting the classic \\"regional\\" acoustic ensemble of bandolim (mandolin), 7-string guitar, cavaquinho, and pandeiro."
+texto_en: "Authentic Brazilian choro music by master mandolinist Izaías Bueno de Almeida and his ensemble, Izaías e Seus Chorões—the oldest active choro group in São Paulo. Mentored by Jacob do Bandolim, this instrumental project blends traditional rhythms with waltzes and serestas, highlighting the classic \\\"regional\\\" acoustic ensemble of bandolim (mandolin), 7-string guitar, cavaquinho, and pandeiro."
 produtor: ""
 engenheiro: ""
 estudio: ""
