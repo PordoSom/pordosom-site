@@ -1,5 +1,5 @@
 ---
-titulo: "Izaías e Seus Chorões - Choro tradicional"
+titulo: "Izaías e Seus Chorões"
 artista: "Chorando na Garoa"
 ano: ""
 capa: "/images/uploads/izaias-e-seus-choroes-choro-tradicional.jpg"
@@ -8,11 +8,11 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/4K8KhAg1i8izqNkqksvOLD?si=WphwQL7_Q3SmgSe5hCYUGQ"
+youtube: "https://www.youtube.com/results?search_query=izaias+e+seus+choroes"
 apple: ""
 deezer: ""
-texto_en: "Authentic Brazilian choro music by master mandolinist Izaías Bueno de Almeida and his ensemble, Izaías e Seus Chorões—the oldest active choro group in São Paulo. Mentored by Jacob do Bandolim, this instrumental project blends traditional rhythms with waltzes and serestas, highlighting the classic \"regional\" acoustic ensemble of bandolim (mandolin), 7-string guitar, cavaquinho, and pandeiro."
+texto_en: "Authentic Brazilian choro music by master mandolinist Izaías Bueno de Almeida and his ensemble, Izaías e Seus Chorões—the oldest active choro group in São Paulo. Mentored by Jacob do Bandolim, this instrumental project blends traditional rhythms with waltzes and serestas, highlighting the classic \\"regional\\" acoustic ensemble of bandolim (mandolin), 7-string guitar, cavaquinho, and pandeiro."
 produtor: ""
 engenheiro: ""
 estudio: ""
