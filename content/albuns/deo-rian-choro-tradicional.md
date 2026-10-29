@@ -1,8 +1,8 @@
 ---
-titulo: "Déo Rian choro tradicional"
+titulo: "Déo Rian"
 artista: "70 Anos"
 ano: ""
-capa: ""
+capa: "/images/uploads/deo-rian-choro-tradicional.jpg"
 generos:
   - instrumental
 destaque: false
