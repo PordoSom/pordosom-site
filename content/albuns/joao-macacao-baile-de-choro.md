@@ -1,8 +1,8 @@
 ---
-titulo: "Joao Macacão Baile de Choro"
+titulo: "Joao Macacão"
 artista: "Baile de Choro"
 ano: ""
-capa: ""
+capa: "/images/uploads/joao-macacao-baile-de-choro.jpg"
 generos:
   - instrumental
 destaque: false
