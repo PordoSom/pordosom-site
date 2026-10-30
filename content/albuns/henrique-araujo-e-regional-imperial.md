@@ -2,7 +2,7 @@
 titulo: "Henrique Araújo e Regional Imperial"
 artista: "O Choro do Sertão"
 ano: ""
-capa: ""
+capa: "/images/uploads/henrique-araujo-e-regional-imperial.jpg"
 generos:
   - instrumental
 destaque: false
