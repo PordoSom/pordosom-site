@@ -1,5 +1,5 @@
 ---
-titulo: "Mestre Brasília Capoeira"
+titulo: "Mestre Brasília"
 artista: "50 Anos Sem Tirar as Mãos do Chão"
 ano: ""
 capa: "/images/uploads/mestre-brasilia-capoeira.jpg"
@@ -8,8 +8,8 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/5GFvXEcpfFSztAtIYFYCYD?si=K9gveV_RR6ySY8uUnmFmLA"
+youtube: "https://www.youtube.com/watch?v=h0mc99vNWmQ&list=RDh0mc99vNWmQ&start_radio=1"
 apple: ""
 deezer: ""
 texto_en: "Celebrating 50 years of dedication to capoeira, Brazilian master Mestre Brasília presents an album rooted in Afro-Brazilian culture and tradition. Featuring traditional capoeira songs, berimbau rhythms, maculelê and samba de roda, the recording preserves the music, ancestral knowledge and cultural heritage of Brazilian capoeira."
