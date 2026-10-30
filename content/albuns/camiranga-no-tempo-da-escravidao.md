@@ -1,5 +1,5 @@
 ---
-titulo: "Camiranga – No Tempo da Escravidão"
+titulo: "Camiranga"
 artista: "No Tempo da Escravidão"
 ano: ""
 capa: "/images/uploads/camiranga-no-tempo-da-escravidao.jpg"
@@ -8,8 +8,8 @@ generos:
 destaque: false
 faixas: 11
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/5XYh71EC7HV4oSWkZpp8WV?si=jXWMUgUORwOtzQ4e9FJkMg"
+youtube: "https://www.youtube.com/watch?v=W2WgCqMIehs&list=PLFwSUQfrxbVRUUFir0qvum-KAkhhekCQm&index=2"
 apple: ""
 deezer: ""
 texto_en: "The project is a conceptual MPB and Afro-Brazilian music experience. Featuring 11 original tracks, the album explores the history of slavery in Brazil from the enslaved people's perspective, focusing on daily life in colonial plantations (engenhos), resistance strategies, maroon communities (quilombos), and cultural preservation through traditional rhythms like jongo. Available on Spotify and YouTube, it is a key musical resource for those searching for Brazilian black history, ancestral heritage, and traditional folk music."
