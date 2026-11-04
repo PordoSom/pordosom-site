@@ -3,7 +3,7 @@ titulo: "Festival de Música Infantil Peixe Boi 5 Edição"
 status: "realizado"
 badge: "Festival de Música Infantil"
 ano: 2024
-ordem: ""
+ordem: "3"
 imagem: "/images/uploads/projeto-festival-de-musica-infantil-peixe-boi-5-edicao.jpg"
 link: "https://www.youtube.com/culturainfantil"
 relatorio: ""
