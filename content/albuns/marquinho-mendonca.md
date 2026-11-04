@@ -12,7 +12,7 @@ spotify: "https://open.spotify.com/intl-pt/album/5NvJZN5tIvJFk7BY4GZBQR?si=M_bZZ
 youtube: "https://www.youtube.com/watch?v=6OVuF7UVv90"
 apple: ""
 deezer: ""
-texto_en: ""
+texto_en: "empo Templo is an album of Brazilian instrumental music by composer, guitarist, multi-instrumentalist and arranger Marquinho Mendonça. Featuring original compositions inspired by the diversity of Brazilian music, the album explores rhythms and influences such as choro, samba, baião and other traditional Brazilian styles. Blending acoustic instruments, rich melodies, improvisation and contemporary arrangements, Tempo Templo celebrates the creativity and heritage of Brazilian instrumental music."
 produtor: ""
 engenheiro: ""
 estudio: ""
