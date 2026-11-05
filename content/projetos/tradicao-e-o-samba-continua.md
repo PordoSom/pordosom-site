@@ -23,6 +23,9 @@ O projeto também prestou homenagem a importantes nomes da história do samba pa
 
 https://www.youtube.com/watch?v=EFnyJReRcqk&list=PLFwSUQfrxbVQ0HUtjYZngj4tboNOqODdr&index=1
 
+https://www.youtube.com/watch?v=ucuxi0275eo&list=PLFwSUQfrxbVQ0HUtjYZngj4tboNOqODdr&index=9
+
+https://www.youtube.com/watch?v=uJ5R_2ptprY&list=PLFwSUQfrxbVQ0HUtjYZngj4tboNOqODdr&index=3
 
 Confira mais vídeos no Canal da Por do Som no Youtube
  
