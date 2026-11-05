@@ -1,15 +1,15 @@
 ---
-titulo: "Graça Braga samba"
+titulo: "Graça Braga"
 artista: "Eu Sou Brasil"
 ano: ""
 capa: "/images/uploads/graca-braga-samba.jpg"
 generos:
   - samba-de-raiz
 destaque: false
-faixas: 1
+faixas: 14
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/0UDORWcbvbJLlOUg632fHc?si=e6AfCZq6TyKeAlsj1jM1TA"
+youtube: "https://www.youtube.com/watch?v=INOeV3HNeDs"
 apple: ""
 deezer: ""
 texto_en: "Graça Braga is a Brazilian samba singer known for her powerful voice and strong connection to traditional Brazilian music. Her album Eu Sou Brasil, produced by Quinteto em Branco e Preto, celebrates samba raiz, traditional samba, partido-alto and Afro-Brazilian rhythms, blending the roots of São Paulo samba with the diversity of Brazilian popular music. Featuring special guests Jair Rodrigues, Dominguinhos, Leci Brandão and Marcos Sacramento, the album is a tribute to the richness and cultural identity of Brazilian samba."
