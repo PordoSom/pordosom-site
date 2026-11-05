@@ -4,7 +4,7 @@ status: "realizado"
 badge: ""
 ano: 2012
 ordem: ""
-imagem: ""
+imagem: "/images/uploads/projeto-tradicao-e-o-samba-continua.jpg"
 link: ""
 relatorio: ""
 tags:
