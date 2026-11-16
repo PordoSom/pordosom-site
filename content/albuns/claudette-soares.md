@@ -4,10 +4,11 @@ artista: "e Orquestra Tom Jobim"
 ano: ""
 capa: "/images/uploads/claudette-soares.jpg"
 generos:
+  - mpb
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
+spotify: "https://open.spotify.com/intl-pt/album/5jUzteoGJH64PVIWom0Jhh?si=N_JHHeZFREWcdd6RGyKIzQ"
 youtube: "https://www.youtube.com/watch?v=bprYwWADLBk&list=RDbprYwWADLBk&start_radio=1"
 apple: ""
 deezer: ""
