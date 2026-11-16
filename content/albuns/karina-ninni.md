@@ -8,8 +8,8 @@ generos:
 destaque: false
 faixas: 1
 ordem: ""
-spotify: ""
-youtube: ""
+spotify: "https://open.spotify.com/intl-pt/album/4v2bkTowFLwsN8Fyo90Q8P?si=jheZ4c7LTaygrBnUsMlJew"
+youtube: "https://www.youtube.com/watch?v=Bnht7fQ66xw&list=RDBnht7fQ66xw&start_radio=1"
 apple: ""
 deezer: ""
 texto_en: "un álbum de samba brasileño de la cantante y compositora Karina Ninni, reconocida por su trayectoria en la música popular brasileña (MPB). Lanzado en 2015, el disco reúne diez sambas inéditos de compositores como Délcio Carvalho, Celso Viáfora, Douglas Germano, Leandro Dias y Eduardo Gudin. Con arreglos y dirección musical de João Poleto, incluye participaciones especiales de Fabiana Cozza, Eduardo Gudin y Amilson Godoy. Una celebración del samba tradicional, la poesía y la riqueza de la música brasileña."
